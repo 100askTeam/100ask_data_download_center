@@ -116,7 +116,7 @@ html_logo = u'logo/100ask_logo.png'
 # the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
 #html_favicon = None
-html_favicon = 'logo/100ask_ico.ico'
+html_favicon = 'logo/100ask_ico.png'
 #html_favicon = 'http://photos.100ask.net//ELADCMSecond/logo/100ask_logo.ico'
 
 # Add any paths that contain custom static files (such as style sheets) here,
