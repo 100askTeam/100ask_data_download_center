@@ -1,0 +1,18 @@
+{% extends "!layout.html" %}
+{% block extrahead %}
+    <link href="{{ pathto("_static/default.css", True) }}" rel="stylesheet" type="text/css">
+{% endblock %}
+
+
+{% block footer %}
+{{ super() }}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180718223-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-180718223-1');
+</script>
+{% endblock %}
