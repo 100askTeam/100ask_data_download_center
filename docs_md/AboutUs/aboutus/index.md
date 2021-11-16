@@ -14,15 +14,15 @@
 
 # 联系方式
 
-- 百问网官方wiki：http://wiki.100ask.org
-- 百问网官方论坛：http://bbs.100ask.net
-- 百问网官网：http://www.100ask.net
+- 百问网官方wiki：[http://wiki.100ask.org](http://wiki.100ask.org)
+- 百问网官方论坛：[http://bbs.100ask.net](http://bbs.100ask.net)
+- 百问网官网：[http://www.100ask.net](http://www.100ask.net)
 - 微信公众号：百问科技
-- CSDN：https://edu.csdn.net/lecturer/90
-- B站：https://space.bilibili.com/275908810?from=search&seid=10505231074028238949
-- 知乎：https://www.zhihu.com/people/www.100ask/
-- 微博：https://weibo.com/888wds?topnav=1&wvr=6
-- 电子发烧友学院：http://t.elecfans.com/teacher/3.html
+- CSDN：[https://edu.csdn.net/lecturer/90](https://edu.csdn.net/lecturer/90)
+- B站：[https://space.bilibili.com/275908810?from=search&seid=10505231074028238949](https://space.bilibili.com/275908810?from=search&seid=10505231074028238949)
+- 知乎：[https://www.zhihu.com/people/www.100ask/](https://www.zhihu.com/people/www.100ask/)
+- 微博：[https://weibo.com/888wds?topnav=1&wvr=6](https://weibo.com/888wds?topnav=1&wvr=6)
+- 电子发烧友学院：[http://t.elecfans.com/teacher/3.html](http://t.elecfans.com/teacher/3.html)
 
 
 微信公众号( baiwenkeji )  |  [`视频教程在线学习平台`](http://www.100ask.net)
@@ -37,7 +37,7 @@
 
 公司名称：深圳百问网科技有限公司
 -  电话: 0755-86200561
--  淘宝: https://100ask.taobao.com
+-  淘宝: [https://100ask.taobao.com](https://100ask.taobao.com)
 -  技术支持邮箱: weidongshan@qq.com 
 -  地        址: 广东省深圳市龙岗区布吉南湾街道平吉大道建昇大厦B1505 
 -  邮        编: 518114 
