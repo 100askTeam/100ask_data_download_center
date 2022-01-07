@@ -1,5 +1,5 @@
 =============================
-⭐🎫100ASK_STM32F103开发板
+🎫100ASK_STM32F103_Pro开发板
 =============================
 
 1. 导学
@@ -64,15 +64,16 @@
 3. 产品图片
 ##########################
 
-- 100ASK_STM32F103 开发板主图如下所示
+- 100ASK_STM32F103_Pro 开发板主图如下所示
 
 .. _pic_major_100ASK_STM32MP157_PRO:
 
-.. figure:: http://photos.100ask.net/100ask/products/boards/St/100ask_stm32f103/100ask_stm32f103_positive.jpg
+.. figure:: http://photos.100ask.net/100ask/products/boards/St/100ask_stm32f103/100ask_stm32f103_Pro_positive.jpg
    
-  `100ASK_STM32F103 开发板实物图正面`_
+  `100ASK_STM32F103_Pro 开发板实物图正面`_
   
-.. _100ASK_STM32F103 开发板实物图正面: https://item.taobao.com/item.htm?id=638072392313
+.. _100ASK_STM32F103_Pro 开发板实物图正面: https://item.taobao.com/item.htm?id=638072392313
+
 
 4. 购买方式
 ##########################
