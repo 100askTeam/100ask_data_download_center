@@ -72,4 +72,4 @@ jobs:
         port: 22
         script: |
           ls -al
-          cd /root/100ask_data_download_center  && git pull
+          cd /home/100ask_data_download_center  && git pull
