@@ -5,19 +5,14 @@
 1. 导学
 ##########################
 - `⭐视频介绍与导学(新同学请先点击这里)`_
-- `微力同步使用教程`_
 - `GIT下载简明教程`_
 - `百度网盘方式下载资料教程`_
 
 
 .. _⭐视频介绍与导学(新同学请先点击这里): https://www.bilibili.com/video/BV1oz4y1C7jK
-.. _微力同步使用教程: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
 .. _GIT下载简明教程: http://download.100ask.org/tools/Software/git/how_to_use_git.html
 .. _百度网盘方式下载资料教程: http://wiki.100ask.org/BeginnerLearningRoute#.E7.99.BE.E5.BA.A6.E7.BD.91.E7.9B.98.E4.BD.BF.E7.94.A8.E6.95.99.E7.A8.8B
 
-:: 
-   
-   如果发现百度网盘地址失效，或者因为文件太多而无法保存时，请使用 微力同步 进行下载
    
 2. 视频教程与配套资料
 ##########################
