@@ -17,8 +17,24 @@
 2. 视频教程与配套资料
 ##########################
 
-2.1 ``100ASK_T113`` LVGL专题视频教程
-**************************
+2.1 ``100ASK_T113`` 嵌入式Linux快速入门专题教程
+****************************************************
+
+- 配套资料：
+
+  - 开发板专题资料 ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1xvIUKFiZx8tV6-dBKZ5qcQ?pwd=root   密码： root
+  - 课堂源码资料： git clone https://e.coding.net/weidongshan/01_all_series_quickstart.git
+
+- 视频教程：
+  
+  - ``100ASK_T113`` 嵌入式Linux快速入门专题视频教程观看
+  
+    - 在线学习方式1： https://www.100ask.net/all/3113742/7910943
+    - 在线学习方式2： https://space.bilibili.com/275908810/channel/seriesdetail?sid=1714177
+
+
+2.2 ``100ASK_T113`` LVGL专题教程
+****************************************************
 
 - 配套资料：
 
