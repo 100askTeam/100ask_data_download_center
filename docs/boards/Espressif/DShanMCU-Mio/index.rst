@@ -1,5 +1,5 @@
 =============================
-🎫DShanESP32-S3开发板
+🎫DShanMCU-Mio(澪)开发板
 =============================
 
 1. 导学
@@ -17,24 +17,24 @@
 
 - 开发板配套资料
 
-  - ``DShan-ESP-S3_Arduino学习资料`` :download:`链接<>`： TODO  密码： root
-  - ``DShan-ESP-S3_ESP-IDF学习资料`` :download:`链接<>`： TODO  密码： root
-  - ``DShan-ESP-S3_MicroPython学习资料`` :download:`链接<>`： TODO  密码： root
+  - ``DShanMCU-Mio(澪) Arduino学习资料`` :download:`链接<>`： https://pan.baidu.com/s/1rpC0JZj6wZ2wea3NyPXTvQ?pwd=root  密码： root
+  - ``DShanMCU-Mio(澪) ESP-IDF学习资料`` :download:`链接<>`： https://pan.baidu.com/s/1lNVxmixhmOdPFSmtCMUMbg?pwd=root  密码： root
+  - ``DShanMCU-Mio(澪) MicroPython学习资料`` :download:`链接<>`： TODO  密码： root
 
 
 3. 产品图片
 ##########################
 
-- DShanESP32-S3开发板如下图所示:
+- DShanMCU-Mio(澪)开发板如下图所示:
 
-.. _pic_major_DShanESP32-S3:
+.. _pic_major_DShanMCU-Mio(澪):
 
 .. figure:: https://forums.100ask.net/uploads/default/original/2X/a/ab36f2c93141cfbf2620d3fea4ef5978bf37ba9f.jpeg
    
-  `DShanESP32-S3开发板`_
+  `DShanMCU-Mio(澪)开发板`_
 
 
-.. DShanESP32-S3开发板:  https://item.taobao.com/item.htm?id=683875901407
+.. DShanMCU-Mio(澪)开发板:  https://item.taobao.com/item.htm?id=683875901407
 
 4. 购买方式
 ##########################
