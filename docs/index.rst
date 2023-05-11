@@ -126,7 +126,6 @@
    :caption: 百问网畅销书籍
    
    books/Linux/ELADCM1/index
-   books/Linux/ELADCM2/index
    books/Linux/ELADCMFor4412/index
 	
 .. toctree::
