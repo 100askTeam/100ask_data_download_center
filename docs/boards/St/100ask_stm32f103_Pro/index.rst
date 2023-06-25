@@ -5,10 +5,8 @@
 1. 导学
 ##########################
 - `⭐视频介绍与导学(新同学请先点击这里)`_
-- `微力同步使用教程`_
 - `GIT下载简明教程`_
 - `百度网盘方式下载资料教程`_
-
 
 .. _⭐视频介绍与导学(新同学请先点击这里): https://www.bilibili.com/video/BV1oz4y1C7jK
 .. _GIT下载简明教程: http://download.100ask.org/tools/Software/git/how_to_use_git.html
