@@ -2,55 +2,33 @@
 🎫DShanMCU-F103开发板
 =============================
 
-1. 导学
+1. 资料下载
 ##########################
-- `⭐视频介绍与导学(新同学请先点击这里)`_
-- `GIT下载简明教程`_
-- `百度网盘方式下载资料教程`_
-
-
-.. _⭐视频介绍与导学(新同学请先点击这里): https://www.bilibili.com/video/BV1oz4y1C7jK
-.. _GIT下载简明教程: http://download.100ask.org/tools/Software/git/how_to_use_git.html
-.. _百度网盘方式下载资料教程: http://wiki.100ask.org/BeginnerLearningRoute#.E7.99.BE.E5.BA.A6.E7.BD.91.E7.9B.98.E4.BD.BF.E7.94.A8.E6.95.99.E7.A8.8B
-   
-
-2. 资料下载
-##########################
-
-2.1 开发板资料
-**************************
 
 - 开发板配套资料
 
   - ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1c2H1SaqeM54HXPT6FrihDA?pwd=root  密码：root
 
 
+2. 视频教程
+##########################
 
-2.2 在线视频与配套资料：``单片机核心/RTOS必备_硬件编程大全(基于STM32F103)``
+2.1 在线视频与配套资料：``单片机核心/RTOS必备_硬件编程大全(基于STM32F103)``
 ******************************************************************************
 
 1. 在线视频观看方式1：https://www.100ask.net/detail/p_5f85731ee4b06aff1a03d3d3/8
 #. 在线视频观看方式2：B站：https://www.bilibili.com/video/BV1V54y1C7hq
-#. 在线视频观看方式3：微信小程序或APP学习
+#. 在线视频观看方式3：微信小程序或APP学习：
 
 .. figure:: http://photos.100ask.net/100ask/aboutus/100ASK_Applets.jpg
-   
-  
 
 	
-4. ``配套资料2``：录制视频时写的文档、源码(无法直接打开链接，用git命令下载)：
+4. ``配套资料2``：录制视频时写的文档、源码(无法直接打开链接，用git命令下载，上面视频中有教程怎么下载)：
 
 .. code-block:: console
     :linenos:
 	
 	git clone https://e.coding.net/weidongshan/noos/doc_and_source_for_mcu_mpu.git
-
-	
-2.3 GUI教程资料
-**************************
-
-百问网LVGL系列教程： http://download.100ask.org/gui/lvgl/100ask_lvgl.html
-
 
 
 3. 产品图片
@@ -95,7 +73,8 @@
 ##########################
 
 - 售前问题：
-  - 阿里旺旺： https://100ask.taobao.com 上淘宝直接一对一咨询技术
+
+  - 淘宝 https://100ask.taobao.com 上淘宝直接一对一咨询技术
   
 - 售后问题：
 
