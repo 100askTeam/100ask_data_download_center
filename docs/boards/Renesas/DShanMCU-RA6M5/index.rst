@@ -19,7 +19,7 @@
 
 - 开发板配套资料
 
-  - ``百度云网盘`` :download:`链接<>`：链接：https://pan.baidu.com/s/1-Czbv-3eRxsAz6USxyoTyA?pwd=root 密码：root
+  - ``百度云网盘`` :download:`链接<>`：链接：https://pan.baidu.com/s/1hNqhWljHFuPybnbGyEWsSA?pwd=root 密码：root
 
 
 3. 产品图片
