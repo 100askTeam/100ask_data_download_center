@@ -16,17 +16,16 @@
 - `百度网盘方式下载资料教程`_
 
 .. _⭐视频介绍与导学(新同学请先点击这里): https://www.bilibili.com/video/BV1oz4y1C7jK
-.. _GIT下载简明教程: http://download.100ask.org/tools/Software/git/how_to_use_git.html
+.. _GIT下载简明教程: https://download.100ask.net/tools/Software/git/how_to_use_git.html
 .. _百度网盘方式下载资料教程: http://wiki.100ask.org/BeginnerLearningRoute#.E7.99.BE.E5.BA.A6.E7.BD.91.E7.9B.98.E4.BD.BF.E7.94.A8.E6.95.99.E7.A8.8B
 
 -----------
 
 .. toctree::
    :maxdepth: 2
-   :caption: 百问网直播历史
+   :caption: 百问网项目实战课程
    
-   videos_tutorial/100ask_live/100ask_live/index
-   videos_tutorial/100ask_live/100ask_live_prj/index
+   project/item1/index
    
 .. toctree::
    :maxdepth: 2
@@ -69,6 +68,12 @@
    modules/tools/EasyOpenJATG/index
    modules/tools/USB_to_serial_port/index
 
+.. toctree::
+   :maxdepth: 2
+   :caption: 百问网直播历史
+   
+   videos_tutorial/100ask_live/100ask_live/index
+   videos_tutorial/100ask_live/100ask_live_prj/index
 
 .. toctree::
    :maxdepth: 2
@@ -128,6 +133,7 @@
    
    books/Linux/ELADCM1/index
    books/Linux/ELADCMFor4412/index
+
 	
 .. toctree::
    :maxdepth: 2

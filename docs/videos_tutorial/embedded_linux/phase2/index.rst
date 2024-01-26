@@ -11,8 +11,8 @@
 
 
 .. _⭐视频介绍与导学(新同学请先点击这里): https://www.bilibili.com/video/BV1oz4y1C7jK
-.. _微力同步使用教程: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
-.. _GIT下载简明教程: http://download.100ask.org/tools/Software/git/how_to_use_git.html
+.. _微力同步使用教程: https://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
+.. _GIT下载简明教程: https://download.100ask.org/tools/Software/git/how_to_use_git.html
 .. _百度网盘方式下载资料教程: http://wiki.100ask.org/BeginnerLearningRoute#.E7.99.BE.E5.BA.A6.E7.BD.91.E7.9B.98.E4.BD.BF.E7.94.A8.E6.95.99.E7.A8.8B
 
 :: 
@@ -26,7 +26,7 @@ JZ2440开发板资料下载
   - 下载方式1：``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1tNNbnPdrz5BK8sfORTUm1g  密码： root
   - 下载方式2：``微力同步``              `密钥`_：B3AMCCZ4QGAZYRCTARUJTMYDGKCB4SSKXB4A35RUC2XOH2HYS5WBD2Q
 
-.. _密钥: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
+.. _密钥: https://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
 
 配套资料源码下载
 ----------------------------------------
@@ -36,7 +36,7 @@ JZ2440开发板资料下载
   - 下载方式1：``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/11DbT4e3vmq9idVNKO58n-w 密码： root
   - 下载方式2：``微力同步``              `密钥`_：B3APCAODVZEOZSEYNUMCDKGHPCKSBGSXPMHD5ASKUWCUFM72PXBIGQ6
   
-.. _密钥: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
+.. _密钥: https://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
 
 	
 - 第2期 韦东山驱动大全视频及源码	
@@ -44,7 +44,7 @@ JZ2440开发板资料下载
   - 下载方式1：``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/19zfdtSyDl_u6qDyW9xeyVQ 密码：root
   - 下载方式2：``微力同步``              `密钥`_：B3ALGBVWZT3G6ZPOZ52WANMRPCN7L6DJUCMA3NDGCLHMIVOQKWPAWDA
   
-.. _密钥: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
+.. _密钥: https://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
 
 
 视频教程在线学习

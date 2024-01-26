@@ -3,8 +3,8 @@
 ## 1.导学
 
 - [⭐视频介绍与导学(新同学请先点击这里)](https://www.bilibili.com/video/BV1oz4y1C7jK)
-- [微力同步使用教程](http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html)
-- [GIT下载简明教程](http://download.100ask.org/tools/Software/git/how_to_use_git.html)
+- [微力同步使用教程](https://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html)
+- [GIT下载简明教程](https://download.100ask.org/tools/Software/git/how_to_use_git.html)
 - [百度网盘方式下载资料教程](http://wiki.100ask.org/BeginnerLearningRoute#.E7.99.BE.E5.BA.A6.E7.BD.91.E7.9B.98.E4.BD.BF.E7.94.A8.E6.95.99.E7.A8.8B)
 
 
@@ -28,13 +28,13 @@
 
 ## 4. 相关配套视频教程、资料下载
 
-- [第1期视频教程、资料下载](http://download.100ask.org/videos_tutorial/embedded_linux/phase1/index.html)
-- [第2期视频教程、资料下载](http://download.100ask.org/videos_tutorial/embedded_linux/phase2/index.html)
-- [第3期视频教程、资料下载](http://download.100ask.org/videos_tutorial/embedded_linux/phase3/index.html)
-- [第1、2期衔接视频教程、资料下载](http://download.100ask.org/videos_tutorial/embedded_linux/linkup/index.html)
-- [毕业班视频教程、资料下载](http://download.100ask.org/videos_tutorial/embedded_linux/graduating_class/index.html)
-- [设备树视频教程、资料下载](http://download.100ask.org/videos_tutorial/embedded_linux/DTS/index.html)
-- [SPI视频教程、资料下载](http://download.100ask.org/videos_tutorial/embedded_linux/SPI/index.html)
+- [第1期视频教程、资料下载](https://download.100ask.org/videos_tutorial/embedded_linux/phase1/index.html)
+- [第2期视频教程、资料下载](https://download.100ask.org/videos_tutorial/embedded_linux/phase2/index.html)
+- [第3期视频教程、资料下载](https://download.100ask.org/videos_tutorial/embedded_linux/phase3/index.html)
+- [第1、2期衔接视频教程、资料下载](https://download.100ask.org/videos_tutorial/embedded_linux/linkup/index.html)
+- [毕业班视频教程、资料下载](https://download.100ask.org/videos_tutorial/embedded_linux/graduating_class/index.html)
+- [设备树视频教程、资料下载](https://download.100ask.org/videos_tutorial/embedded_linux/DTS/index.html)
+- [SPI视频教程、资料下载](https://download.100ask.org/videos_tutorial/embedded_linux/SPI/index.html)
 
 
 

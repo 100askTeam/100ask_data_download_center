@@ -1,6 +1,6 @@
 # 🎟CMOS二合一摄像头
 
-[韦东山Linux第3期项目实战](http://download.100ask.org/videos_tutorial/embedded_linux/phase3/index.html) 使用摄像头
+[韦东山Linux第3期项目实战](https://download.100ask.org/videos_tutorial/embedded_linux/phase3/index.html) 使用摄像头
 
 ## 产品参数
 

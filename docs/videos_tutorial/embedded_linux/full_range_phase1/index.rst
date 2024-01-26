@@ -18,12 +18,12 @@
 - `RK3288开发板配套资料`_
 
 
-.. _100ASK_IMX6ULL_Mini开发板配套资料: http://download.100ask.org/boards/Nxp/100ask_imx6ull_mini/index.html
-.. _100ASK_IMX6ULL_Pro开发板配套资料: http://download.100ask.org/boards/Nxp/100ask_imx6ull_pro/index.html
-.. _100ASK_STM32MP157_Pro开发板配套资料: http://download.100ask.org/boards/St/100ask_stm32mp157_pro/index.html
-.. _100ASK_AM335X开发板配套资料: http://download.100ask.org/boards/Ti/100ask_am335x/index.html
-.. _RK3399开发板配套资料: http://download.100ask.org/boards/Rockchip/firefly-roc-rk3399-pc/index.html
-.. _RK3288开发板配套资料: http://download.100ask.org/boards/Rockchip/firefly-rk3288/index.html
+.. _100ASK_IMX6ULL_Mini开发板配套资料: https://download.100ask.org/boards/Nxp/100ask_imx6ull_mini/index.html
+.. _100ASK_IMX6ULL_Pro开发板配套资料: https://download.100ask.org/boards/Nxp/100ask_imx6ull_pro/index.html
+.. _100ASK_STM32MP157_Pro开发板配套资料: https://download.100ask.org/boards/St/100ask_stm32mp157_pro/index.html
+.. _100ASK_AM335X开发板配套资料: https://download.100ask.org/boards/Ti/100ask_am335x/index.html
+.. _RK3399开发板配套资料: https://download.100ask.org/boards/Rockchip/firefly-roc-rk3399-pc/index.html
+.. _RK3288开发板配套资料: https://download.100ask.org/boards/Rockchip/firefly-rk3288/index.html
 
 
 

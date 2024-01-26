@@ -2,10 +2,10 @@
 
 ## 配套开发板资料下载
 
-- [100ASK_IMX6ULL_Mini开发板配套资料](http://download.100ask.org/boards/Nxp/100ask_imx6ull_mini/index.html)
-- [100ASK_IMX6ULL_Pro开发板配套资料](http://download.100ask.org/boards/Nxp/100ask_imx6ull_pro/index.html)
-- [100ASK_STM32MP157_Pro开发板配套资料](http://download.100ask.org/boards/St/100ask_stm32mp157_pro/index.html)
-- [100ASK_STM32F103开发板配套资料](http://download.100ask.org/boards/St/100ask_stm32f103/index.html)
+- [100ASK_IMX6ULL_Mini开发板配套资料](https://download.100ask.org/boards/Nxp/100ask_imx6ull_mini/index.html)
+- [100ASK_IMX6ULL_Pro开发板配套资料](https://download.100ask.org/boards/Nxp/100ask_imx6ull_pro/index.html)
+- [100ASK_STM32MP157_Pro开发板配套资料](https://download.100ask.org/boards/St/100ask_stm32mp157_pro/index.html)
+- [100ASK_STM32F103开发板配套资料](https://download.100ask.org/boards/St/100ask_stm32f103/index.html)
 
 
 

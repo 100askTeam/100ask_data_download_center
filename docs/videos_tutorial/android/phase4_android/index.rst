@@ -11,8 +11,8 @@
 
 
 .. _⭐视频介绍与导学(新同学请先点击这里): https://www.bilibili.com/video/BV1oz4y1C7jK
-.. _微力同步使用教程: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
-.. _GIT下载简明教程: http://download.100ask.org/tools/Software/git/how_to_use_git.html
+.. _微力同步使用教程: https://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
+.. _GIT下载简明教程: https://download.100ask.org/tools/Software/git/how_to_use_git.html
 .. _百度网盘方式下载资料教程: http://wiki.100ask.org/BeginnerLearningRoute#.E7.99.BE.E5.BA.A6.E7.BD.91.E7.9B.98.E4.BD.BF.E7.94.A8.E6.95.99.E7.A8.8B
 
 :: 
@@ -28,7 +28,7 @@
   - 下载方式1：``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1pASC1DcO7QyEB5s2QXrdKg  密码：root
   - 下载方式2：``微力同步``              `密钥`_：B3ANKT4LQHFUTASLL6VGQRPPRIF3KP56V52CPFR2NX77G3QHPZFFVHW
 
-.. _密钥: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html  
+.. _密钥: https://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html  
 
 - 韦东山Android显示系统专题视频
 

@@ -4,7 +4,7 @@
 
 `韦东山Linux第3期项目实战`_ 使用摄像头
 
-.. _韦东山Linux第3期项目实战: http://download.100ask.org/videos_tutorial/embedded_linux/phase3/index.html
+.. _韦东山Linux第3期项目实战: https://download.100ask.org/videos_tutorial/embedded_linux/phase3/index.html
 
 产品参数
 --------------------

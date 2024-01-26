@@ -3,8 +3,8 @@
 ## 1. 导学
 
 - [⭐视频介绍与导学(新同学请先点击这里)](https://www.bilibili.com/video/BV1oz4y1C7jK)
-- [微力同步使用教程](http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html)
-- [GIT下载简明教程](http://download.100ask.org/tools/Software/git/how_to_use_git.html)
+- [微力同步使用教程](https://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html)
+- [GIT下载简明教程](https://download.100ask.org/tools/Software/git/how_to_use_git.html)
 - [百度网盘方式下载资料教程](http://wiki.100ask.org/BeginnerLearningRoute#.E7.99.BE.E5.BA.A6.E7.BD.91.E7.9B.98.E4.BD.BF.E7.94.A8.E6.95.99.E7.A8.8B)
 
 
@@ -16,7 +16,7 @@
  
 - qemu配套资料：
   - 下载方式1：``百度网盘`` 链接： [https://pan.baidu.com/s/1Gb80JoMsFxHvIUC3Gm-G7g](https://pan.baidu.com/s/1Gb80JoMsFxHvIUC3Gm-G7g) 密码：root
-  - 下载方式2：``微力同步``              [密钥](http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html)：暂无
+  - 下载方式2：``微力同步``              [密钥](https://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html)：暂无
 
 
 ## 3. 交流答疑

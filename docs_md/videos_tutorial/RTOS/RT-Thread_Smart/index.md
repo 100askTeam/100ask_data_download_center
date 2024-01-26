@@ -2,9 +2,9 @@
 
 配套开发板:
 
-- [IMX6ULL-Pro](http://download.100ask.org/boards/Nxp/100ask_imx6ull_pro/index.html)
-- [IMX6ULL-Mini](http://download.100ask.org/boards/Nxp/100ask_imx6ull_mini/index.html)
-- [STM32MP157](http://download.100ask.org/boards/St/100ask_stm32mp157_pro/index.html)
+- [IMX6ULL-Pro](https://download.100ask.org/boards/Nxp/100ask_imx6ull_pro/index.html)
+- [IMX6ULL-Mini](https://download.100ask.org/boards/Nxp/100ask_imx6ull_mini/index.html)
+- [STM32MP157](https://download.100ask.org/boards/St/100ask_stm32mp157_pro/index.html)
 
 
 ## 在线视频与配套资料：``RT-Thread Smart微内核最小系统移植``

@@ -8,7 +8,7 @@
 - `百度网盘方式下载资料教程`_
 
 
-.. _GIT下载简明教程: http://download.100ask.org/tools/Software/git/how_to_use_git.html
+.. _GIT下载简明教程: https://download.100ask.org/tools/Software/git/how_to_use_git.html
 .. _百度网盘方式下载资料教程: http://wiki.100ask.org/BeginnerLearningRoute#.E7.99.BE.E5.BA.A6.E7.BD.91.E7.9B.98.E4.BD.BF.E7.94.A8.E6.95.99.E7.A8.8B
 
 

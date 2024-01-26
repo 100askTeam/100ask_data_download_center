@@ -1,6 +1,6 @@
 # 🎟SPI模块(SPI FLASH+SPI OLED)
 
-[韦东山SPI专题](http://download.100ask.org/videos_tutorial/embedded_linux/SPI/index.html) 专用模块
+[韦东山SPI专题](https://download.100ask.org/videos_tutorial/embedded_linux/SPI/index.html) 专用模块
 
 
 ## 产品参数
