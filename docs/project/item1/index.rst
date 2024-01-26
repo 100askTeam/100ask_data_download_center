@@ -30,8 +30,12 @@
 
 :: 
    
-   上述所有资料均可以在 ``QQ群文件`` 中下载，在我们淘宝店铺购买了课程套餐之后，请按照我们的客服指引或者询问我们的淘宝客服加入群聊。
+   上述所有资料均可以在QQ群文件中下载。
 
+
+- QQ群号：`865989216`_
+
+.. _865989216: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=2W0Q2V9P7cDiIjCb13qLWFv8Ie_KxMg-&authKey=xSXSl7Ams8JnUOC8U48LmdmD46NH2nFDUlrZKCViEMU%2FPmf9UUHCpY4j2cB9jOwE&noverify=0&group_code=865989216
 
 
 2. 视频教程
