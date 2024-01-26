@@ -14,23 +14,23 @@
 
 - 项目1:全场景工业互联设备管理系统解决方案(PC上位机/中控/多传感器)
 
-  - ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/109e9Cr5nl-BWpct24Q6zOw?pwd=root   密码：root
+  - ``百度云网盘`` ：https://pan.baidu.com/s/109e9Cr5nl-BWpct24Q6zOw?pwd=root   密码：root
 
 
 - 项目2:全场景工业互联设备管理系统解决方案(网络/云服务/GUI)
 
-  - ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1lTeo67Ee64hQTEhL2kul3g?pwd=root   密码：root
+  - ``百度云网盘`` ：https://pan.baidu.com/s/1lTeo67Ee64hQTEhL2kul3g?pwd=root   密码：root
 
 
 - 项目3:Linux全场景工业互联设备管理系统解决方案
 
-  - ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1UcuiaGhWQLp-VibEMd4EOg?pwd=root   密码：root
+  - ``百度云网盘`` ：https://pan.baidu.com/s/1UcuiaGhWQLp-VibEMd4EOg?pwd=root   密码：root
 
 
 
 :: 
    
-   上述所有资料均可以在QQ群文件中下载，在我们淘宝店铺购买了课程套餐之后，请按照我们的客服指引或者询问我们的淘宝客服加入群聊。
+   上述所有资料均可以在 ``QQ群文件`` 中下载，在我们淘宝店铺购买了课程套餐之后，请按照我们的客服指引或者询问我们的淘宝客服加入群聊。
 
 
 
