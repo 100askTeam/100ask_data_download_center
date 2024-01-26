@@ -63,13 +63,13 @@ jobs:
         git push origin master
         # The above command will fail if no changes were present, so we ignore
         # that.B_TOKEN }}
-    - name: executing remote ssh command using password
-      uses: appleboy/ssh-action@master
-      with:
-        host: ${{ secrets.HOST }}
-        username: root
-        key: ${{ secrets.SSH_ID_RSA }}
-        port: 22
-        script: |
-          ls -al
-          cd /home/100ask_data_download_center  && git pull
+    #- name: executing remote ssh command using password
+    #  uses: appleboy/ssh-action@master
+    #  with:
+    #    host: ${{ secrets.HOST }}
+    #    username: root
+    #    key: ${{ secrets.SSH_ID_RSA }}
+    #    port: 22
+    #    script: |
+    #      ls -al
+    #      cd /home/100ask_data_download_center  && git pull
