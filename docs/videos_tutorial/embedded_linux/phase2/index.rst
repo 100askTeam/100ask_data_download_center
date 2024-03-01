@@ -5,46 +5,35 @@
 导学
 =========================
 - `⭐视频介绍与导学(新同学请先点击这里)`_
-- `微力同步使用教程`_
 - `GIT下载简明教程`_
 - `百度网盘方式下载资料教程`_
 
 
 .. _⭐视频介绍与导学(新同学请先点击这里): https://www.bilibili.com/video/BV1oz4y1C7jK
-.. _微力同步使用教程: https://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
 .. _GIT下载简明教程: https://download.100ask.org/tools/Software/git/how_to_use_git.html
 .. _百度网盘方式下载资料教程: http://wiki.100ask.org/BeginnerLearningRoute#.E7.99.BE.E5.BA.A6.E7.BD.91.E7.9B.98.E4.BD.BF.E7.94.A8.E6.95.99.E7.A8.8B
 
 :: 
    
-   如果发现百度网盘地址失效，或者因为文件太多而无法保存时，请使用 微力同步 进行下载
+   如果发现百度网盘地址失效，请在这里发帖留言： https://forums.100ask.net
    
 
 JZ2440开发板资料下载
 --------------------
 
-  - 下载方式1：``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1tNNbnPdrz5BK8sfORTUm1g  密码： root
-  - 下载方式2：``微力同步``              `密钥`_：B3AMCCZ4QGAZYRCTARUJTMYDGKCB4SSKXB4A35RUC2XOH2HYS5WBD2Q
+  - 下载方式：``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1tNNbnPdrz5BK8sfORTUm1g  密码： root
 
-.. _密钥: https://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
 
 配套资料源码下载
 ----------------------------------------
 
 - 1、2衔接视频及源码
 	
-  - 下载方式1：``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/11DbT4e3vmq9idVNKO58n-w 密码： root
-  - 下载方式2：``微力同步``              `密钥`_：B3APCAODVZEOZSEYNUMCDKGHPCKSBGSXPMHD5ASKUWCUFM72PXBIGQ6
-  
-.. _密钥: https://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
-
+  - 下载方式：``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/11DbT4e3vmq9idVNKO58n-w 密码： root
 	
 - 第2期 韦东山驱动大全视频及源码	
 
-  - 下载方式1：``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/19zfdtSyDl_u6qDyW9xeyVQ 密码：root
-  - 下载方式2：``微力同步``              `密钥`_：B3ALGBVWZT3G6ZPOZ52WANMRPCN7L6DJUCMA3NDGCLHMIVOQKWPAWDA
-  
-.. _密钥: https://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
+  - 下载方式：``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/19zfdtSyDl_u6qDyW9xeyVQ 密码：root
 
 
 视频教程在线学习
@@ -75,8 +64,6 @@ JZ2440开发板资料下载
 - 学习交流QQ群：  http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4
 
 > 交流微信群与QQ群选择对应的产品申请加入即可。
-
-
 
 
 关于百问网(韦东山)

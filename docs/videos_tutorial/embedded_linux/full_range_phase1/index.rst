@@ -2,7 +2,7 @@
 🎓【升级版全系列】嵌入式视频第1季之快速入门
 ============================================================
 
-配套开发板资料下载
+视频配套开发板资料下载
 -----------------------
 
 - `100ASK_IMX6ULL_Mini开发板配套资料`_
@@ -28,14 +28,9 @@
 
 
 
-配套资料源码下载
+视频配套资料源码下载
 ----------------------------------------
 
-- 百度云盘下载视频&源码
-
-  - 链接：https://eyun.baidu.com/s/3c2XmIVA
-  - 密码：askNEWCourseA
-  
 - 使用git单独下载源码&文档
 
   - 从git官网下载并安装Git Bash工具 : https://gitforwindows.org
@@ -44,11 +39,21 @@
 > 下载成功后，你会在 C:\Users 目录下，你自己的用户目录里，看到一个 “01_all_series_quickstart” 目录
 
 
-
 教程免费在线学习
 ----------------------------------------
 
-- 百问网韦东山在线教学平台
+- bilibili在线观看
+
+  - 【下面1-5篇的汇总】： https://www.bilibili.com/video/BV1w4411B7a4
+  - 第1篇：新学习路线、视频介绍、资料下载：https://www.bilibili.com/video/BV12A411J7DG
+  - 第2篇：环境搭建、linux基本操作、工具使用：https://www.bilibili.com/video/BV19A411J7ci
+  - 第3篇：开发板使用手册：https://www.bilibili.com/video/BV1zV411U7H9
+  - 第4篇：嵌入式linux应用开发基础知识：https://www.bilibili.com/video/BV1kk4y117Tu
+  - 第5篇：嵌入式linux驱动开发基础知识：https://www.bilibili.com/video/BV14f4y1Q7ti
+  - 第6篇：项目实战：https://www.bilibili.com/video/BV1it4y1Q75z
+  - 第7篇：驱动大全：https://www.bilibili.com/video/BV1hz4y1f7eN
+
+- 百问网官方在线教学平台
 
   - 第1篇：新学习路线、视频介绍、资料下载：https://www.100ask.net/detail/p_5f18007de4b0df48afbcd477/6
   - 第2篇：环境搭建、linux基本操作、工具使用：https://www.100ask.net/detail/p_5f1a913de4b0df48afbd6d43/8
@@ -61,36 +66,11 @@
   - 第9篇：专题(待更新)：https://www.100ask.net/detail/p_5f181ee6e4b0a1003cae722c/8
 
 
-- bilibili在线观看
-
-  - 第1篇：新学习路线、视频介绍、资料下载：https://www.bilibili.com/video/BV12A411J7DG
-  - 第2篇：环境搭建、linux基本操作、工具使用：https://www.bilibili.com/video/BV19A411J7ci
-  - 第3篇：开发板使用手册：https://www.bilibili.com/video/BV1zV411U7H9
-  - 第4篇：嵌入式linux应用开发基础知识：https://www.bilibili.com/video/BV1kk4y117Tu
-  - 第5篇：嵌入式linux驱动开发基础知识：https://www.bilibili.com/video/BV14f4y1Q7ti
-  - 第6篇：项目实战：https://www.bilibili.com/video/BV1it4y1Q75z
-  - 第7篇：驱动大全：https://www.bilibili.com/video/BV1hz4y1f7eN
-
-
-
 配套书籍在线阅读及下载
 -----------------------
 
 https://book.100ask.net
 
-
-教程配套开发板购买
---------------------
-
-- `IMX6ULL`_
-- `AM335X`_ 
-- `RK3288`_ 
-- `RK3399`_ 
-
-.. _IMX6ULL: https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18944745104.12.6c896036i1SlFl&id=610613585935
-.. _AM335X: https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18944745104.12.4f45656ctZqneh&id=601709849721
-.. _RK3288: https://100ask.taobao.com/category-1475461376.htm?spm=a1z10.5-c-s.w4010-22661840056.34.1a5a4c7aykAzVA&search=y&parentCatId=160544246&parentCatName=%CB%F9%D3%D0%BF%AA%B7%A2%B0%E5&catName=RK3288%BF%AA%B7%A2%B0%E5#bd
-.. _RK3399: https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18944745104.12.2ad35e6dtSSKEP&id=601124209964
  
 学习交流答疑
 --------------------
