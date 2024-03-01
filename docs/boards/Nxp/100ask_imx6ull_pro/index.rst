@@ -13,7 +13,8 @@
 .. _⭐视频介绍与导学(新同学请先点击这里): https://www.bilibili.com/video/BV1oz4y1C7jK
 .. _GIT下载简明教程: https://download.100ask.org/tools/Software/git/how_to_use_git.html
 .. _百度网盘方式下载资料教程: http://wiki.100ask.org/BeginnerLearningRoute#.E7.99.BE.E5.BA.A6.E7.BD.91.E7.9B.98.E4.BD.BF.E7.94.A8.E6.95.99.E7.A8.8B
-   
+
+
 2. 资料下载与在线视频
 ##########################
 
@@ -22,14 +23,14 @@
 
 - 开发板配套资料：
 
-  - ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1bFgKNm5616DPd8zb7zv5wQ?pwd=root   密码： root
+  - ``百度云网盘``：链接：https://pan.baidu.com/s/1Rzm5jmrNavoU1KnNgUDeLw?pwd=root  密码： root
 
 - 实验班配套资料：
 
   - 跟上面的网盘资料中的 "02_开发工具/100ask-vmware_ubuntu18.04" 不一样
   - 实验班的虚拟机里装好了vscode、下载好了Linux源码
   - 实验班课程正在进行, 欢迎加QQ群 341014981
-  - 百度云网盘下载地址：:download:`链接<>`：https://pan.baidu.com/s/1mmRs7J1uMMp4iVLaVwfffQ?pwd=root   密码： root  
+  - 百度云网盘下载地址：https://pan.baidu.com/s/1mmRs7J1uMMp4iVLaVwfffQ?pwd=root   密码： root  
 
 2.2 ``全系列Linux教程``：在线视频与配套资料(入门)
 ****************************************************
