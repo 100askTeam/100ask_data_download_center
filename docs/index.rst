@@ -134,17 +134,16 @@
    books/Linux/ELADCM1/index
    books/Linux/ELADCMFor4412/index
 
-	
-.. toctree::
-   :maxdepth: 2
-   :caption: Release Notes
 
-   ReleaseNotes/Video/100ask_Linux_Video_ReleaseNotes/index
-   ReleaseNotes/Video/100ask_Noos_Video_ReleaseNotes/index
-   ReleaseNotes/Video/100ask_HarmonyOS_Video_ReleaseNotes/index
-   ReleaseNotes/Board/100ask_imx6ull_pro_ReleaseNotes/index
-   ReleaseNotes/Board/100ask_imx6ull_mini_ReleaseNotes/index
-   ReleaseNotes/Board/100ask_stm32mp157_ReleaseNotes/index
+..   :maxdepth: 2
+..   :caption: Release Notes
+..
+..   ReleaseNotes/Video/100ask_Linux_Video_ReleaseNotes/index
+..   ReleaseNotes/Video/100ask_Noos_Video_ReleaseNotes/index
+..   ReleaseNotes/Video/100ask_HarmonyOS_Video_ReleaseNotes/index
+..   ReleaseNotes/Board/100ask_imx6ull_pro_ReleaseNotes/index
+..   ReleaseNotes/Board/100ask_imx6ull_mini_ReleaseNotes/index
+..   ReleaseNotes/Board/100ask_stm32mp157_ReleaseNotes/index
 
 .. toctree::
    :maxdepth: 2
