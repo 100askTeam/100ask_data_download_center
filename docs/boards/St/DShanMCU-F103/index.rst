@@ -13,17 +13,44 @@
 2. 视频教程
 ##########################
 
-2.1 单片机核心/RTOS必备_硬件编程大全(基于STM32F103)
+
+2.1 在线视频与配套资料：``STM32入门-STM32 HAL快速入门与项目实战``
+******************************************************************************
+
+1. 在线视频观看方式1（百问网）： https://fnwcn.xetslk.com/s/1ewpCo
+#. 在线视频观看方式2（B站）：https://www.bilibili.com/video/BV1Ey4y1w7wN
+#. 在线视频观看方式3：微信小程序或APP学习
+
+.. figure:: http://photos.100ask.net/100ask/aboutus/100ASK_Applets.jpg
+   
+
+4. ``配套资料``：上面的开发板配套资料。
+
+
+2.2 在线视频与配套资料：``FreeRTOS入门与工程实践--由浅入深带你学习FreeRTOS（FreeRTOS教程 基于STM32，以实际项目为导向）``
+******************************************************************************
+
+1. 在线视频观看方式1（百问网）： https://fnwcn.xet.tech/s/1qB5Z6
+#. 在线视频观看方式2（B站）：https://www.bilibili.com/video/BV1Jw411i7Fz
+#. 在线视频观看方式3：微信小程序或APP学习
+
+.. figure:: http://photos.100ask.net/100ask/aboutus/100ASK_Applets.jpg
+   
+
+4. ``配套资料``：上面的开发板配套资料。
+
+
+2.3 在线视频与配套资料：``单片机核心/RTOS必备_硬件编程大全(基于STM32F103)``
 ******************************************************************************
 
 1. 在线视频观看方式1：https://www.100ask.net/detail/p_5f85731ee4b06aff1a03d3d3/8
 #. 在线视频观看方式2：B站：https://www.bilibili.com/video/BV1V54y1C7hq
-#. 在线视频观看方式3：微信小程序或APP学习：
+#. 在线视频观看方式3：微信小程序或APP学习
 
 .. figure:: http://photos.100ask.net/100ask/aboutus/100ASK_Applets.jpg
 
 	
-4. ``配套资料2``：录制视频时写的文档、源码(无法直接打开链接，用git命令下载，上面视频中有教程怎么下载)：
+4. ``配套资料``：录制视频时写的文档、源码(无法直接打开链接，用git命令下载)：
 
 .. code-block:: console
     :linenos:

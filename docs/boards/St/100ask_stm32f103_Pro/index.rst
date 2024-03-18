@@ -33,11 +33,9 @@
 #. 在线视频观看方式3：微信小程序或APP学习
 
 .. figure:: http://photos.100ask.net/100ask/aboutus/100ASK_Applets.jpg
-   
-  
 
 	
-4. ``配套资料2``：录制视频时写的文档、源码(无法直接打开链接，用git命令下载)：
+4. ``配套资料``：录制视频时写的文档、源码(无法直接打开链接，用git命令下载)：
 
 .. code-block:: console
     :linenos:
@@ -48,7 +46,7 @@
 2.3 GUI教程资料
 **************************
 
-百问网LVGL系列教程： https://download.100ask.org/gui/lvgl/100ask_lvgl.html
+百问网LVGL系列教程： https://download.100ask.net/gui/lvgl/100ask_lvgl.html
 
 
 
