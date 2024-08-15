@@ -43,9 +43,16 @@
    boards/Renesas/DShanMCU-RA6M5/index
    boards/Espressif/DShanMCU-Mio/index
    boards/MindMotion/pitaya_lite/index
+   boards/Allwinner/R128/index
    boards/Allwinner/D1-H/index
    boards/Allwinner/D1s/index
    boards/Allwinner/T113/index
+   boards/Allwinner/T113i/index
+   boards/Allwinner/V851s/index
+   boards/Allwinner/V851se/index
+   boards/Allwinner/V853/index
+   boards/Allwinner/H616/index
+   boards/Allwinner/T527/index
    boards/St/100ask_stm32f103_mini/index 
    boards/St/100ask_stm32f103_Pro/index 
    boards/St/100ask_stm32mp157_pro/index 
