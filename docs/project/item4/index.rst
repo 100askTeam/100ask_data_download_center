@@ -7,16 +7,22 @@
 ########################
 
 - **【第1期】韦东山百问网多媒体应用 AI音视频开发课程**
+
   - ``百度网盘``：https://pan.baidu.com/s/14Hh9_qIMA_mbZfPAZV20Eg?pwd=8j32 提取码: 8j32
+
   - ``gitee``:git clone https://gitee.com/weidongshan/V85x-eLinuxAIMPPDevCourse.git
 
 - **【第2期】韦东山百问网多媒体应用 AI音视频开发课程**
+
   - ``百度网盘``：https://pan.baidu.com/s/14Hh9_qIMA_mbZfPAZV20Eg?pwd=8j32 提取码: 8j32
+
   - ``gitee``:git clone https://gitee.com/weidongshan/V85x-eLinuxAIMPPDevCourse.git
 
 
 - **【第3期】韦东山百问网多媒体应用 AI音视频开发课程**
+
   - ``百度网盘``：https://pan.baidu.com/s/14Hh9_qIMA_mbZfPAZV20Eg?pwd=8j32 提取码: 8j32
+  
   - ``gitee``:git clone https://gitee.com/weidongshan/V85x-eLinuxAIMPPDevCourse.git
 
 
