@@ -31,6 +31,7 @@
    :caption: 百问网项目实战课程
    
    project/item1/index
+   project/item2/index
    
 .. toctree::
    :maxdepth: 2
