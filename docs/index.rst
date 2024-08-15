@@ -53,6 +53,9 @@
    boards/Allwinner/V853/index
    boards/Allwinner/H616/index
    boards/Allwinner/T527/index
+   boards/Art/D213/index
+   boards/Kendryte/k230/index
+   boards/Kendryte/k510/index
    boards/St/100ask_stm32f103_mini/index 
    boards/St/100ask_stm32f103_Pro/index 
    boards/St/100ask_stm32mp157_pro/index 
