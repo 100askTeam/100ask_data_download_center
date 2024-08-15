@@ -38,8 +38,7 @@
 
 - QQ群号：`774083288`_
 
-.. _774083288: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=2W0Q2V9P7cDiIjCb13qLWFv8Ie_KxMg-&authKey=xSXSl7Ams8JnUOC8U48LmdmD46NH2nFDUlrZKCViEMU%2FPmf9UUHCpY4j2cB9jOwE&noverify=0&group_code=774083288
-
+.. _774083288: https://qm.qq.com/q/324atqTsS4
 
 2. 视频教程
 ##########################
@@ -48,21 +47,21 @@
 
 ******************************************************************************
 
-1. 在线视频观看方式1：百问网官方学习平台：[百问网嵌入式专家-韦东山嵌入式专注于嵌入式课程及硬件研发 (100ask.net)](https://www.100ask.net/video/detail/p_6631e993e4b0d84dfe47e3ab)
-   #. 在线视频观看方式2：B站：[0-1_LVGL入门教程之课程Demo演示：100ASK Modbus Tool(demo) v0.1【合集课程】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1WE421K75k/?spm_id_from=333.788)
+1. 在线视频观看方式1：百问网官方学习平台：https://www.100ask.net/video/detail/p_6631e993e4b0d84dfe47e3ab
+   #. 在线视频观看方式2：B站：https://www.bilibili.com/video/BV1WE421K75k/?spm_id_rom=333.788
 
 2.2 MCU进阶提升课程
 
 ******************************************************************************
 
-1. 在线视频观看方式1：百问网官方学习平台：[百问网嵌入式专家-韦东山嵌入式专注于嵌入式课程及硬件研发 (100ask.net)](https://www.100ask.net/video/detail/p_6631e993e4b0d84dfe47e3ab)
+1. 在线视频观看方式1：百问网官方学习平台：https://www.100ask.net/video/detail/p_6631e993e4b0d84dfe47e3ab
    #. 在线视频观看方式2：B站：
 
 2.3 第三期:MPU进阶提升课程
 
 ******************************************************************************
 
-1. 在线视频观看方式1：百问网官方学习平台：[百问网嵌入式专家-韦东山嵌入式专注于嵌入式课程及硬件研发 (100ask.net)](https://www.100ask.net/video/detail/p_6631e993e4b0d84dfe47e3ab)
+1. 在线视频观看方式1：百问网官方学习平台：https://www.100ask.net/video/detail/p_6631e993e4b0d84dfe47e3ab
    #. 在线视频观看方式2：B站：
 2. LVGL课程配套文档站点：https://lvgl.100ask.net
 
