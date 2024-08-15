@@ -47,7 +47,7 @@
 
 .. _pic_major_100ASK_STM32MP157_PRO:
 
-.. figure::https://gw.alicdn.com/imgextra/i1/41044833/O1CN01YsUoJ01lZZ9vqwQVU_!!41044833.jpg_Q75.jpg_.webp
+.. figure:: https://gw.alicdn.com/imgextra/i1/41044833/O1CN01YsUoJ01lZZ9vqwQVU_!!41044833.jpg_Q75.jpg_.webp
 
   `100ASK_k230 AI开发板实物图正面`_
 

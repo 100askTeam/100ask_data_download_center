@@ -47,7 +47,7 @@
 
 .. _pic_major_100ASK_STM32MP157_PRO:
 
-.. figure::https://gw.alicdn.com/imgextra/i3/2208530093353/O1CN01FMxjOg1adixxhJ8QH_!!0-item_pic.jpg_Q75.jpg_.webp
+.. figure:: https://gw.alicdn.com/imgextra/i3/2208530093353/O1CN01FMxjOg1adixxhJ8QH_!!0-item_pic.jpg_Q75.jpg_.webp
 
   `100ASK_V851se 开发板实物图正面`_
 
