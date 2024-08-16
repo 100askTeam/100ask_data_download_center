@@ -70,7 +70,7 @@
 
 .. _pic_major_100ASK_STM32MP157_PRO:
 
-.. figure:: https://gd2.alicdn.com/imgextra/i3/41044833/O1CN01LwAE401lZZ2A0L5S8_!!41044833.png
+.. figure:: http://photos.100ask.net/rtos-docs/FreeRTOS/DShanMCU-F103/chapter-1/image1.png
    
   `DShanMCU-F103 开发板实物图正面`_
   
