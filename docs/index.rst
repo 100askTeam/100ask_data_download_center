@@ -28,7 +28,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 韦东山项目实战课程
+   :caption: 项目实战专题课程
    
    project/item1/index
    project/item2/index
@@ -45,12 +45,13 @@
    boards/Allwinner/R128/index
    boards/St/100ask_stm32f103_mini/index 
    boards/St/100ask_stm32f103_Pro/index 
+   boards/MindMotion/pitaya_lite/index
+   boards/Kendryte/DongShanPI_K230/index
 
 .. toctree::
    :maxdepth: 2
    :caption: Linux开发板
     
-   boards/MindMotion/pitaya_lite/index
    boards/Allwinner/D1-H/index
    boards/Allwinner/D1s/index
    boards/Allwinner/T113/index
