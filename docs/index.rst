@@ -46,7 +46,7 @@
    boards/St/100ask_stm32f103_mini/index 
    boards/St/100ask_stm32f103_Pro/index 
    boards/MindMotion/pitaya_lite/index
-   boards/Kendryte/DongShanPI_K230/index
+   boards/Kendryte/DShanPI_K230/index
 
 .. toctree::
    :maxdepth: 2
