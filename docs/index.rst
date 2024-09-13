@@ -40,6 +40,7 @@
    :caption: 单片机开发板
    
    boards/St/DShanMCU-F103/index
+   boards/St/DShanMCU-F407/index
    boards/Renesas/DShanMCU-RA6M5/index
    boards/Espressif/DShanMCU-Mio/index
    boards/Allwinner/R128/index
