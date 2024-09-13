@@ -80,6 +80,8 @@
 
      DshanMCU-F407 开发板实物图正面
 
+  `DShanMCU-F407 开发板实物图正面`_
+
 .. _DShanMCU-F407 开发板实物图正面: https://item.taobao.com/item.htm?id=830887560871
 
 
