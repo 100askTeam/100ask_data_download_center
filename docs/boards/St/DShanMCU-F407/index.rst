@@ -75,9 +75,7 @@
 
 - DShanMCU-F407 开发板主图如下所示
 
-.. _pic_major_100ASK_STM32MP157_PRO:
-
-.. figure:: image:: ../pic/image2.png
+.. figure:: image:: ./pic/image2.png
     :width: 1000px
 
   `DShanMCU-F407 开发板实物图正面`_
