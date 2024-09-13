@@ -7,7 +7,7 @@
 
 1.1 文档站点
 *****************************
-- 
+- http://wiki.100ask.org/DshanMCU-F407
 
 1.2 开发板配套资料
 *****************************
@@ -20,7 +20,8 @@
 
 基于瑞士军刀DshanMCU-F103开发板，百问网录制了“HAL快速入门与项目实战”、“FreeRTOS入门与工程实践”等课程，如下：
 
-<img src="pic/image2.png" style="zoom: 50%;" />
+.. image:: ./pic/image1.png
+  :width: 200px
 
 有些场景需要更强的CPU性能、更大的Flash、更大的内存，所以我们推出了“瑞士军刀DshanMCU-F407”。这个板子目前没有视频教程，只有文字教程，上述视频可以借鉴（都是STM32芯片，差别不大）。
 
@@ -76,7 +77,8 @@
 
 .. _pic_major_100ASK_STM32MP157_PRO:
 
-<img src="pic/image2.png" style="zoom: 50%;" />
+.. image:: ./pic/image2.png
+  :width: 200px
 
   `DShanMCU-F407 开发板实物图正面`_
 
