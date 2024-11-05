@@ -34,6 +34,7 @@
    project/item2/index
    project/item3/index
    project/item4/index
+   project/item5/index
 
 .. toctree::
    :maxdepth: 2
