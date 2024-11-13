@@ -23,7 +23,7 @@
 
 - 开发板配套资料：
 
-  - ``百度云网盘``：链接：https://pan.baidu.com/s/1Rzm5jmrNavoU1KnNgUDeLw?pwd=root  密码： root
+  - ``百度云网盘``：链接：https://pan.baidu.com/s/1NsAIRkQj0bOaPDWdSkBuXw  密码： root
 
 - 实验班配套资料：
 
