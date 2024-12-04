@@ -30,7 +30,7 @@
   - 跟上面的网盘资料中的 "02_开发工具/100ask-vmware_ubuntu18.04" 不一样
   - 实验班的虚拟机里装好了vscode、下载好了Linux源码
   - 实验班课程正在进行, 欢迎加QQ群 341014981
-  - 百度云网盘下载地址：https://pan.baidu.com/s/1mmRs7J1uMMp4iVLaVwfffQ?pwd=root   密码： root  
+  - 百度云网盘下载地址： https://pan.baidu.com/s/1SjpWb0K-dL2C06DjUEuA_A?pwd=qjke 密码： qjke  
 
 2.2 ``全系列Linux教程``：在线视频与配套资料(入门)
 ****************************************************
