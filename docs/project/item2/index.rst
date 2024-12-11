@@ -6,9 +6,9 @@
 
 四期内容分别为：
 
-- 第一期:PC模拟器基础入门课程
-- 第二期:MCU进阶提升课程
-- 第三期:MPU进阶提升课程
+- 第一期:PC模拟器基础入门课程(已完结)
+- 第二期:MCU进阶提升课程(已完结)
+- 第三期:MPU进阶提升课程(待更新)
 - 第四期:项目专题高级课程(待更新)
 
 
@@ -38,9 +38,9 @@ LVGL课程配套文档站点：https://lvgl.100ask.net
    上述所有资料均可以在QQ群文件中下载。
 
 
-- QQ群号：`774083288`_
+- QQ群号：`962138234`_
 
-.. _774083288: https://qm.qq.com/q/324atqTsS4
+.. _962138234: https://qm.qq.com/q/Z7qXEfkvKe
 
 2. 视频教程
 ##########################
@@ -49,22 +49,19 @@ LVGL课程配套文档站点：https://lvgl.100ask.net
 
 ******************************************************************************
 
-1. 在线视频观看方式1：百问网官方学习平台：https://www.100ask.net/video/detail/p_6631e993e4b0d84dfe47e3ab
-2. 在线视频观看方式2：B站：https://www.bilibili.com/video/BV1WE421K75k/?spm_id_rom=333.788
+B站在线观看：https://www.bilibili.com/video/BV1or421L75s
 
 2.2 MCU进阶提升课程
 
 ******************************************************************************
 
-1. 在线视频观看方式1：百问网官方学习平台：https://www.100ask.net/video/detail/p_6631e993e4b0d84dfe47e3ab
-2. 在线视频观看方式2：B站：
+B站在线观看：https://www.bilibili.com/video/BV1NBmoYcEvn
 
 2.3 第三期:MPU进阶提升课程
 
 ******************************************************************************
 
-1. 在线视频观看方式1：百问网官方学习平台：https://www.100ask.net/video/detail/p_6631e993e4b0d84dfe47e3ab
-2. 在线视频观看方式2：B站：
+B站在线观看：待更新
 
 
 3. 购买方式
@@ -99,12 +96,6 @@ LVGL课程配套文档站点：https://lvgl.100ask.net
 - 售后问题：
 
   - 交流社区：https://forums.100ask.net
-
-- 讨论群
-
-  - 学习交流微信群：http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4
-
-  - 学习交流QQ群：  http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4
 
 - 投诉：
 
