@@ -22,23 +22,13 @@
 
 - 配套资料：
 
-  - 开发板专题资料 ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1xvIUKFiZx8tV6-dBKZ5qcQ?pwd=root   密码： root
-  - 课堂源码资料： git clone https://e.coding.net/weidongshan/01_all_series_quickstart.git
-
-- 实验班配套资料：
-
-  - 跟上面的网盘资料中的 "02_开发工具/100ask-vmware_ubuntu18.04" 不一样
-  - 实验班的虚拟机里装好了vscode、下载好了Linux源码
-  - 实验班课程正在进行, 欢迎加QQ群 341014981
-  - 百度云网盘下载地址：:download:`链接<>`：https://pan.baidu.com/s/1mmRs7J1uMMp4iVLaVwfffQ?pwd=root   密码： root 
+  - 资料网盘：https://pan.baidu.com/s/1Nz9JCFXCr3Ip3Ig8k-SUoQ?pwd=98d5
+  - 课件资料： https://gitee.com/weidongshan/eLinuxDevGeneralCourse
 
 - 视频教程：
   
-  - ``100ASK_T113`` 嵌入式Linux快速入门专题视频教程观看
-  
-    - 在线学习方式1： https://www.100ask.net/all/3113742/7910943
-    - 在线学习方式2： https://space.bilibili.com/275908810/channel/seriesdetail?sid=1714177
-
+  - 视频教程：https://www.bilibili.com/video/BV1Nx4y1w7AF
+  - 完整版本：https://video.100ask.net/p/t_pc/goods_pc_detail/goods_detail/p_6603d7dee4b0694ccd8a67d7
 
 2.2 ``100ASK_T113`` LVGL专题教程
 ****************************************************
