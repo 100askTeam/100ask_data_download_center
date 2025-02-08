@@ -7,7 +7,7 @@
 
 - 开发板配套资料
 
-  - ``百度云网盘`` :download:`链接<>`：
+  - ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1VBd0n3FKO0bj8yHOWk4HEw?pwd=ov5d 提取码：ov5d
 
 
 2. 视频教程
