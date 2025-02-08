@@ -23,7 +23,7 @@
 - 配套资料：
 
   - 资料网盘：https://pan.baidu.com/s/1Nz9JCFXCr3Ip3Ig8k-SUoQ?pwd=98d5
-  - 课件资料： https://gitee.com/weidongshan/eLinuxDevGeneralCourse
+  - 课件资料：https://gitee.com/weidongshan/eLinuxDevGeneralCourse
 
 - 视频教程：
   
