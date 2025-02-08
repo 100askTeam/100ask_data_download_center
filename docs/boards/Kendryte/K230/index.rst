@@ -17,28 +17,19 @@
 
 ******************************************************************************
 
-1. 在线视频观看方式1（百问网）： 
-2. 在线视频观看方式2（B站）：
-3. 在线视频观看方式3：微信小程序或APP学习
+1. 第一期 开发板基础使用：https://www.bilibili.com/video/BV1X4421Z7Db
+
+2. 第二期 K230 SDK开发基础：https://www.bilibili.com/video/BV1B1tKeyE3p
+
+3. MicroPython系统快速上手指南：https://www.bilibili.com/video/BV1BWUUYaEXv
+
+4. SDK框架分析之rt-smart驱动入门指南：https://www.bilibili.com/video/BV1kMUdYdEVC
+
+5. 快速自定义数据集模型训练与部署：https://www.bilibili.com/video/BV1cRzuYvETq
 
 .. figure:: http://photos.100ask.net/100ask/aboutus/100ASK_Applets.jpg
 
-
-4. ``配套资料``：上面的开发板配套资料。
-
-2.2 在线视频与配套资料：
-
-******************************************************************************
-
-1. 在线视频观看方式1（百问网）：
-2. 在线视频观看方式2（B站）：
-3. 在线视频观看方式3：微信小程序或APP学习
-
-.. figure:: http://photos.100ask.net/100ask/aboutus/100ASK_Applets.jpg
-
-
-4. ``配套资料``：上面的开发板配套资料。
-
+6. ``配套资料``：上面的开发板配套资料。
 
 3. 产品图片
 ##########################
