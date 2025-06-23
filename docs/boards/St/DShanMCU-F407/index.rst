@@ -14,7 +14,7 @@
 1.2 开发板配套资料
 *****************************
 
-- ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1xA8NuHYCAMf29jlFRF22FQ?pwd=root 密码：root
+- ``百度云网盘`` :download:`链接<>` ：https://pan.baidu.com/s/1xA8NuHYCAMf29jlFRF22FQ?pwd=root 密码：root
 
 2. 产品图片
 ##########################
@@ -25,9 +25,7 @@
     :width: 1000px
 
      DShanMCU-F407 开发板实物图正面
-
 .. _DShanMCU-F407 开发板实物图正面: https://item.taobao.com/item.htm?id=830887560871
-
 
 3. 购买方式
 ##########################
