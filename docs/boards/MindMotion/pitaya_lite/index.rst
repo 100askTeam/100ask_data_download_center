@@ -29,10 +29,10 @@
 
 .. figure:: https://forums.100ask.net/uploads/default/original/2X/f/f494429da8834f0c15ea6d0ab3205f7898aedfff.jpeg
    
-  `火龙果(Pitaya_lite)开发板`_
+  火龙果(Pitaya_lite)开发板
 
 
-.. 火龙果(Pitaya_lite)开发板: https://item.taobao.com/item.htm?id=682573965671
+.. _火龙果(Pitaya_lite)开发板: https://item.taobao.com/item.htm?id=682573965671
 
 4. 购买方式
 ##########################

@@ -45,11 +45,11 @@
 
 - 100ASK_k510 AI开发板主图如下所示
 
-.. _pic_major_100ASK_STM32MP157_PRO:
+.. _pic_major_100ASK_K510:
 
 .. figure:: https://gw.alicdn.com/imgextra/i3/41044833/O1CN01fHBK4v1lZZ6UfYwy1_!!41044833.jpg_Q75.jpg_.webp
 
-  `100ASK_k510 AI开发板实物图正面`_
+  100ASK_k510 AI开发板实物图正面
 
 .. _100ASK_k510 AI 开发板实物图正面: https://item.taobao.com/item.htm?id=721868424653
 
