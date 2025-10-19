@@ -45,11 +45,11 @@
 
 - 100ASK_R128 开发板主图如下所示
 
-.. _pic_major_100ASK_STM32MP157_PRO:
+.. _pic_major_100ASK_R128:
 
 .. figure:: https://gw.alicdn.com/imgextra/i1/2208530093353/O1CN0144M6NB1aditH1GQrW_!!0-item_pic.jpg_Q75.jpg_.webp
 
-  100ASK_R128开发板实物图正面_
+  100ASK_R128开发板实物图正面
 
 .. _100ASK_R128 开发板实物图正面: https://item.taobao.com/item.htm?id=736154682975
 

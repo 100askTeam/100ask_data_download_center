@@ -45,13 +45,12 @@
 
 - 100ASK_T527_AvaotaA1 开发板主图如下所示
 
-.. _pic_major_100ASK_STM32MP157_PRO:
+.. _pic_major_100ASK_T527_AvaotaA1:
 
 .. figure:: https://gw.alicdn.com/imgextra/i1/41044833/O1CN01s42VqF1lZZ9OlTPG0_!!41044833.jpg_Q75.jpg_.webp
+   :alt: 100ASK_T527_AvaotaA1开发板实物图正面
 
-  `100ASK_T527_AvaotaA1开发板实物图正面`_
-
-.. _100ASK_T527_AvaotaA1 开发板实物图正面: https://item.taobao.com/item.htm?id=794852973537
+.. _100ASK_T527_AvaotaA1开发板实物图正面: https://item.taobao.com/item.htm?id=794852973537
 
 
 4. 购买方式
@@ -79,7 +78,7 @@
 
 
 5. 交流答疑
-   ##########################
+##########################
 
 - 售前问题：
 
@@ -101,7 +100,6 @@
 
 
 6. 关于百问网(韦东山)
-   ##########################
+##########################
 
  :doc:`/AboutUs/aboutus/index`
-
