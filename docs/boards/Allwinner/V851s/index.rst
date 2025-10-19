@@ -45,11 +45,11 @@
 
 - 100ASK_V851s 开发板主图如下所示
 
-.. _pic_major_100ASK_STM32MP157_PRO:
+.. _pic_major_100ASK_V851s:
 
 .. figure:: https://gw.alicdn.com/imgextra/i3/41044833/O1CN01GdIKH61lZZ0bbzQSc_!!41044833.png_.webp
 
-  `100ASK_V851s 开发板实物图正面`_
+  100ASK_V851s 开发板实物图正面
 
 .. _100ASK_V851s 开发板实物图正面: https://item.taobao.com/item.htm?id=692970888824
 
