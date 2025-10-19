@@ -49,9 +49,9 @@
 
 .. figure:: https://gw.alicdn.com/imgextra/i2/41044833/O1CN01CkCHbm1lZZ5V3uF6F_!!41044833.jpg_Q75.jpg_.webp
 
-  `100ASK_H616 开发板实物图正面`_
+  100ASK_H616 开发板实物图正面
 
-.. _DShanMCU-F103 开发板实物图正面: https://item.taobao.com/item.htm?id=693522076184
+.. _100ASK_H616 开发板实物图正面: https://item.taobao.com/item.htm?id=693522076184
 
 
 4. 购买方式
