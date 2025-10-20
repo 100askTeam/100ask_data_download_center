@@ -95,6 +95,7 @@
    modules/CommunicationModule/SPI/index
    modules/tools/EasyOpenJATG/index
    modules/tools/USB_to_serial_port/index
+   modules/Fpc/LCD_fpc/index
 
 .. toctree::
    :maxdepth: 2
@@ -114,7 +115,6 @@
    :caption: 百问网RTOS教程
    
    videos_tutorial/RTOS/RT-Thread_Smart/index
-
 
 .. toctree::
    :maxdepth: 2
@@ -160,6 +160,7 @@
    :caption: 百问网畅销书籍
    
    books/Linux/ELADCM1/index
+   books/Linux/ELADCM2/index
    books/Linux/ELADCMFor4412/index
 
 .. toctree::

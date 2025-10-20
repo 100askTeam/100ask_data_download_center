@@ -2,7 +2,9 @@
 🎟EOP(EasyOpenJTAG)
 ========================================
 
- :doc:`/documentation/tools/Hardware/EasyOpenJATG` 专用烧录器
+`EasyOpenJTAG`_ 专用烧录器
+
+.. _EasyOpenJTAG: http://wiki.100ask.org/EasyOpenJATG
 
 产品简介
 --------------------
