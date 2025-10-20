@@ -55,11 +55,11 @@
 
 - 100ASK_STM32F103_Pro 开发板主图如下所示
 
-.. _pic_major_100ASK_STM32MP157_PRO:
+.. _pic_major_100ASK_STM32F103_Pro:
 
 .. figure:: http://photos.100ask.net/100ask/products/boards/St/100ask_stm32f103/100ask_stm32f103_Pro_positive.jpg
    
-  `100ASK_STM32F103_Pro 开发板实物图正面`_
+  100ASK_STM32F103_Pro 开发板实物图正面
   
 .. _100ASK_STM32F103_Pro 开发板实物图正面: https://item.taobao.com/item.htm?id=676044382014
 

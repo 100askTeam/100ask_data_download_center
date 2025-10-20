@@ -23,21 +23,21 @@
 
 - 100ASK_STM32F103_mini 开发板主图如下所示
 
-.. _pic_major_100ASK_STM32F103_mini:
+.. _pic_major_100ASK_STM32F103_mini_front:
 
 .. figure:: http://photos.100ask.net/100ask/products/boards/St/100ask_stm32f103/100ask_stm32f103_mini_positive.jpg
    
-  `100ASK_STM32F103_mini 开发板实物图正面`_
+  100ASK_STM32F103_mini 开发板实物图正面
 
-.. _pic_major_100ASK_STM32F103_mini:
+.. _pic_major_100ASK_STM32F103_mini_back:
 
 .. figure:: http://photos.100ask.net/100ask/products/boards/St/100ask_stm32f103/100ask_stm32f103_mini_back.jpg
    
-  `100ASK_STM32F103_mini 开发板实物图背面`_
+  100ASK_STM32F103_mini 开发板实物图背面
 
 
-.. 100ASK_STM32F103_mini 开发板实物图正面: https://item.taobao.com/item.htm?&id=666802425625
-.. 100ASK_STM32F103_mini 开发板实物图背面: https://item.taobao.com/item.htm?&id=666802425625
+.. _100ASK_STM32F103_mini 开发板实物图正面: https://item.taobao.com/item.htm?&id=666802425625
+.. _100ASK_STM32F103_mini 开发板实物图背面: https://item.taobao.com/item.htm?&id=666802425625
 
 4. 购买方式
 ##########################

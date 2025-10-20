@@ -161,7 +161,7 @@
 
 - 100ASK_STM32MP157_PRO 开发板主图如下所示
 
-.. _pic_major_100ASK_STM32MP157_PRO:
+.. _pic_major_100ASK_STM32MP157_PRO_St:
 
 .. figure:: http://photos.100ask.net/100ask/products/boards/St/100ask_stm32mp157_pro/100ASK_STM32MP157_positive.png
    
