@@ -11,7 +11,7 @@ LVGL效果演示：https://www.bilibili.com/video/BV1cU4y1b7dY
 **************************
 .. figure:: http://photos.100ask.net/100ask/products/gui/lvgl/100ask_lvgl_320x480.png
 
-   `100ASK LVGL DEMO STM32F103(320x480)`_ 
+   100ASK LVGL DEMO STM32F103(320x480)
   
 .. _100ASK LVGL DEMO(320x480): https://item.taobao.com/item.htm?id=638072392313
 
@@ -37,23 +37,3 @@ Linux开发板示例(1024*600)
 `stm32mp157-lvgl 源码git仓库(点击跳转)`_ 
 
 `stm32mp157-buildroot 源码git仓库(点击跳转)`_ 
-
-
-.. _IMX6ULL-LVGL 源码git仓库(点击跳转): https://gitee.com/weidongshan/imx6ull-lvgl
-.. _stm32mp157-lvgl 源码git仓库 源码git仓库(点击跳转): https://gitee.com/weidongshan/stm32mp157-lvgl
-.. _stm32mp157-buildroot 源码git仓库(点击跳转): https://gitee.com/weidongshan/Buildroot
-
-100ASK_LVGL文档教程
-##########################
-`100ASK LVGL文档教程(点击跳转)`_ 
-
-.. _100ASK LVGL文档教程(点击跳转): http://lvgl.100ask.net
-
-
-
-关于百问网(韦东山)
-##########################
-
- :doc:`/AboutUs/aboutus/index`
- 
- 

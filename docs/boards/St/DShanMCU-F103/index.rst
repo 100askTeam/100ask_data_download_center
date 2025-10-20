@@ -68,11 +68,11 @@
 
 - DShanMCU-F103 开发板主图如下所示
 
-.. _pic_major_100ASK_STM32MP157_PRO:
+.. _pic_major_100ASK_DShanMCU_F103:
 
 .. figure:: http://photos.100ask.net/rtos-docs/FreeRTOS/DShanMCU-F103/chapter-1/image1.png
    
-  `DShanMCU-F103 开发板实物图正面`_
+  DShanMCU-F103 开发板实物图正面
   
 .. _DShanMCU-F103 开发板实物图正面: https://item.taobao.com/item.htm?id=724601559592
 
