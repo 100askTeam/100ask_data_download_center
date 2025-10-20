@@ -32,8 +32,8 @@ Linux开发板示例(1024*600)
 .. _100ASK LVGL DEMO(1024x600): https://item.taobao.com/item.htm?id=524159646562
 
 
-`IMX6ULL-LVGL 源码git仓库(点击跳转)`_ 
+.. _IMX6ULL-LVGL 源码git仓库(点击跳转): https://gitee.com/weidongshan/imx6ull-lvgl.git
 
-`stm32mp157-lvgl 源码git仓库(点击跳转)`_ 
+.. _stm32mp157-lvgl 源码git仓库(点击跳转): https://gitee.com/weidongshan/stm32mp157-lvgl.git
 
-`stm32mp157-buildroot 源码git仓库(点击跳转)`_ 
+.. _stm32mp157-buildroot 源码git仓库(点击跳转): https://gitee.com/weidongshan/stm32mp157-buildroot.git
