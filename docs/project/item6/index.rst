@@ -24,7 +24,7 @@
 .. figure:: pic/image2.png
     :width: 1000px
 
-     DShanMCU-F407 开发板实物图正面
+    DShanMCU-F407 开发板实物图正面
 
 .. _DShanMCU-F407 开发板实物图正面: https://item.taobao.com/item.htm?id=830887560871
 
