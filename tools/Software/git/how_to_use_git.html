@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
-  <title>🛠Git简明教程 &mdash; 百问网资料下载中心 3.0 文档</title>
+  <title>Git简明教程 &mdash; 百问网资料下载中心 3.0 文档</title>
   
 
   
@@ -199,7 +199,7 @@
 <p class="caption"><span class="caption-text">百问网开发工具</span></p>
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../BtsyncUserGuide/btsync_user_guide.html">🛠微力同步使用教程</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">🛠Git简明教程</a><ul>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Git简明教程</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#id1">1. 安装GIT</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#id2">2. GIT常用命令</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#id3">3. 使用示例</a></li>
@@ -273,7 +273,7 @@
     
       <li><a href="../../../index.html" class="icon icon-home"></a> &raquo;</li>
         
-      <li>🛠Git简明教程</li>
+      <li>Git简明教程</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -293,23 +293,56 @@
            <div itemprop="articleBody">
             
   <div class="section" id="git">
-<h1>🛠Git简明教程<a class="headerlink" href="#git" title="永久链接至标题">¶</a></h1>
+<h1>Git简明教程<a class="headerlink" href="#git" title="永久链接至标题">¶</a></h1>
 <div class="section" id="id1">
 <h2>1. 安装GIT<a class="headerlink" href="#id1" title="永久链接至标题">¶</a></h2>
-<p>在Windows下，Git名为msysGit，从 <a class="reference external" href="https://gitforwindows.org">https://gitforwindows.org</a> 上下载安装文件，双击安装即可，安装选项很多，使用默认选项即可。
-如果下载慢，可以在百度上搜：Git-2.28.0-64-bit.exe，自行下载。</p>
-<p>对于Windows或Linux，它们的命令行用法相似，对于Windows，进入Git命令行的方法是在 <code class="docutils literal notranslate"><span class="pre">开始-&gt;所有程序-&gt;Git</span></code> 下启动 Git Bash.
-Git Bash的命令用法跟Linux完全一样，比如cd、ls等命令。</p>
+<p>在Windows下，Git的安装包名为msysGit，可以从 <a class="reference external" href="https://gitforwindows.org">Git for Windows</a> 下载，双击安装即可，推荐使用默认选项。</p>
+<div class="admonition note">
+<p class="admonition-title">注解</p>
+<p>如果下载慢，可以在百度上搜索 <cite>Git-2.28.0-64-bit.exe</cite> 自行下载。</p>
+</div>
+<p>Windows 和 Linux 下 Git 的命令基本一致。Windows 用户建议通过 <code class="docutils literal notranslate"><span class="pre">开始-&gt;所有程序-&gt;Git</span></code> 启动 Git Bash。它的终端命令（如 <code class="docutils literal notranslate"><span class="pre">cd</span></code>、<code class="docutils literal notranslate"><span class="pre">ls</span></code>）和 Linux 完全一样。</p>
 </div>
 <div class="section" id="id2">
 <h2>2. GIT常用命令<a class="headerlink" href="#id2" title="永久链接至标题">¶</a></h2>
-<p>如果只是使用GIT来下载代码，看后面的示例就可以了。如果要深入学习GIT，用GIT来管理你的代码、协同开发，这有一个图形化介绍GIT的网站：<a class="reference external" href="https://learngitbranching.js.org/?demo=&amp;locale=zh_CN">https://learngitbranching.js.org/?demo=&amp;locale=zh_CN</a></p>
+<div class="admonition tip">
+<p class="admonition-title">小技巧</p>
+<p>如果只是用来下载代码，看后面示例即可。
+如果要深入管理协作，推荐使用 <a class="reference external" href="https://learngitbranching.js.org/?demo=&amp;locale=zh_CN">learngitbranching</a> 进行图形化学习。</p>
+</div>
 </div>
 <div class="section" id="id3">
 <h2>3. 使用示例<a class="headerlink" href="#id3" title="永久链接至标题">¶</a></h2>
-<p>使用git下载资料，需要先知道git仓库的地址。
-以裸机视频GI仓库为例，它的地址是：
-<a class="reference external" href="https://e.coding.net/weidongshan/noos/doc_and_source_for_mcu_mpu.git">https://e.coding.net/weidongshan/noos/doc_and_source_for_mcu_mpu.git</a></p>
+<p>获取git仓库的地址，以裸机视频GI仓库为例：
+<cite>https://e.coding.net/weidongshan/noos/doc_and_source_for_mcu_mpu.git</cite></p>
+<div class="admonition note">
+<p class="admonition-title">注解</p>
+<p>coding的GIT仓库地址无法用浏览器直接打开，需使用Git命令行。</p>
+</div>
+<p>克隆仓库（将下载为 <code class="docutils literal notranslate"><span class="pre">doc_and_source_for_mcu_mpu</span></code> 目录）:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ git clone https://e.coding.net/weidongshan/noos/doc_and_source_for_mcu_mpu.git
+</pre></div>
+</div>
+<p>更新源码：</p>
+<ol class="arabic">
+<li><p>进入仓库目录:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ cd /D/abc/doc_and_source_for_mcu_mpu
+</pre></div>
+</div>
+</li>
+<li><p>执行 pull 命令更新:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ git pull origin
+</pre></div>
+</div>
+</li>
+</ol>
+<img alt="第1天 先下载源码" src="http://photos.100ask.net/100ask/products/tools/Software/git/how_to_use_git/git_day1.png" />
+<img alt="第2天 查看无更新" src="http://photos.100ask.net/100ask/products/tools/Software/git/how_to_use_git/git_day2.png" />
+<img alt="第3天 查看有更新" src="http://photos.100ask.net/100ask/products/tools/Software/git/how_to_use_git/git_day3.png" />
+<p>注意：建议下载源码后，<strong>复制到其他目录去修改</strong>；否则以后更新时可能会和你的本地修改产生``冲突``。</p>
+<p>多次执行 pull 命令提示“已更新”：</p>
+<img alt="多次执行提示“已更新”" src="http://photos.100ask.net/100ask/products/tools/Software/git/how_to_use_git/git_day3_1.png" />
+<p><a href="#id4"><span class="problematic" id="id5">``</span></a><a href="#id6"><span class="problematic" id="id7">`</span></a></p>
 </div>
 </div>
 
