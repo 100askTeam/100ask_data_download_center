@@ -42,8 +42,28 @@
 
 - git命令下载
 
-  - git clone https://e.coding.net/weidongshan/livestream/doc_and_source_for_livestream.git
+- 1. 先克隆主仓库（仅拉取主仓库文件，子模块目录为空）
+git clone https://gitee.com/weidongshan/doc_and_source_for_livestream.git
 
+cd doc_and_source_for_livestream
+
+- 2. 初始化子模块（读取 .gitmodules 配置）
+git submodule init
+
+- 3. 拉取所有子模块的代码（检出主仓库记录的子模块版本）
+git submodule update
+
+更新方法：
+- 更新主仓库
+cd doc_and_source_for_livestream
+git pull origin master
+
+- 看看有没有新的直播
+git submodule init
+git submodule update
+
+- 更新子仓库
+git submodule foreach git pull origin master
 
 学习交流答疑
 --------------------
