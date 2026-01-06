@@ -51,9 +51,22 @@ jobs:
       with:
         name: html-docs
         path: docs/_build/
+
+    - name: Copy build to server via SSH
+      uses: appleboy/scp-action@v1
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        password: ${{ secrets.PASSWORD }}
+        port: ${{ secrets.PORT }}
+        source: "docs/_build/**"
+        target: /www/wwwroot/download.100ask.net/
+        strip_components: 1
+
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       if: github.ref == 'refs/heads/master'
       with:
         github_token: ${{ secrets.CI_TOKEN }}
         publish_dir: docs/_build/
+        cname: download.100ask.org
