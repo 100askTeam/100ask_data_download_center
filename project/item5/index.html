@@ -300,8 +300,37 @@
 </ol>
 <hr class="docutils" />
 <ul class="simple">
-<li><p><cite>coding</cite>: git clone <a class="reference external" href="https://e.coding.net/weidongshan/linux/doc_and_source_for_drivers.git">https://e.coding.net/weidongshan/linux/doc_and_source_for_drivers.git</a></p></li>
+<li><ol class="arabic simple">
+<li><p>先克隆主仓库（仅拉取主仓库文件，子模块目录为空）</p></li>
+</ol>
+</li>
 </ul>
+<p><cite>git clone https://gitee.com/weidongshan/doc_and_source_for_drivers.git</cite></p>
+<p><cite>cd doc_and_source_for_drivers</cite></p>
+<ul class="simple">
+<li><ol class="arabic simple" start="2">
+<li><p>初始化子模块（读取 .gitmodules 配置）</p></li>
+</ol>
+</li>
+</ul>
+<p><cite>git submodule init</cite></p>
+<ul class="simple">
+<li><ol class="arabic simple" start="3">
+<li><p>拉取所有子模块的代码（检出主仓库记录的子模块版本）</p></li>
+</ol>
+</li>
+</ul>
+<p><cite>git submodule update</cite></p>
+<p>更新资料:</p>
+<ul class="simple">
+<li><p>更新主仓库</p></li>
+</ul>
+<p><cite>cd doc_and_source_for_drivers</cite></p>
+<p><cite>git pull origin master</cite></p>
+<ul class="simple">
+<li><p>更新子仓库</p></li>
+</ul>
+<p><cite>git submodule foreach git pull origin master</cite></p>
 <div class="section" id="id1">
 <h2>2. 视频教程<a class="headerlink" href="#id1" title="永久链接至标题">¶</a></h2>
 <ul class="simple">
