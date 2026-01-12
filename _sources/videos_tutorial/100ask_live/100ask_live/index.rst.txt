@@ -40,11 +40,6 @@
   - 链接：https://pan.baidu.com/s/1faagCYM2XSSickycsfojdg  
   - 密码：root
 
-## 直播资料获取入口
-
-- 百度云下载
-  - 链接：[https://pan.baidu.com/s/1faagCYM2XSSickycsfojdg](https://pan.baidu.com/s/1faagCYM2XSSickycsfojdg)  
-  - 密码：root
 
 - git命令下载
   下载方法：
