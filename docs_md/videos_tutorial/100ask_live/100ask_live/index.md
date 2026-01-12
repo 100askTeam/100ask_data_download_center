@@ -23,40 +23,40 @@
 
 - git命令下载
   下载方法：
-- 1. 先克隆主仓库（仅拉取主仓库文件，子模块目录为空）
+  - 1. 先克隆主仓库（仅拉取主仓库文件，子模块目录为空）
 git clone https://gitee.com/weidongshan/doc_and_source_for_livestream.git
 
 cd doc_and_source_for_livestream
 
-- 2. 初始化子模块（读取 .gitmodules 配置）
+  - 2. 初始化子模块（读取 .gitmodules 配置）
 git submodule init
 
-- 3. 拉取所有子模块的代码（检出主仓库记录的子模块版本）
+  - 3. 拉取所有子模块的代码（检出主仓库记录的子模块版本）
 git submodule update
 
 更新方法：
-- 更新主仓库
+  - 更新主仓库
 cd doc_and_source_for_livestream
 git pull origin master
 
-- 看看有没有新的直播
+  - 看看有没有新的直播
 git submodule init
 git submodule update
 
-- 更新子仓库
+  - 更新子仓库
 git submodule foreach git pull origin master
 
 ## 学习交流答疑
 
 - 售前问题：
-  - 阿里旺旺： [https://100ask.taobao.com](https://100ask.taobao.com) 上淘宝直接一对一咨询技术
+  - 淘宝旺旺： [https://weidongshan.tmall.com/](https://weidongshan.tmall.com/) 上淘宝直接一对一咨询技术
   
 - 售后问题：
-  - 论坛：[http://bbs.100ask.net](http://bbs.100ask.net)
+  - 论坛：https://forums.100ask.net
   
 - 讨论群
-  - 学习交流微信群：[http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4](http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4)
-  - 学习交流QQ群：  [http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4](http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4)
+  - 学习交流微信群：[http://wiki.100ask.net/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4](http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4)
+  - 学习交流QQ群：  [http://wiki.100ask.net/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4](http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4)
 
 - 投诉：
   - 加微信：``13510691477``，备注：**投诉**
