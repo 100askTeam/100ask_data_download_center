@@ -99,10 +99,9 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 百问网直播历史
+   :caption: 百问网所有直播
    
    videos_tutorial/100ask_live/100ask_live_linux/index
-   videos_tutorial/100ask_live/100ask_live/index
    videos_tutorial/100ask_live/100ask_live_prj/index
 
 .. toctree::
