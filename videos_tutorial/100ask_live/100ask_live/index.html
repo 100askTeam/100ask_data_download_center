@@ -318,40 +318,56 @@
 <li><p>密码：root</p></li>
 </ul>
 </li>
-<li><p>git命令下载</p></li>
-<li><ol class="arabic simple">
-<li><p>先克隆主仓库（仅拉取主仓库文件，子模块目录为空）</p></li>
-</ol>
-</li>
+</ul>
+<p>## 直播资料获取入口</p>
+<ul class="simple">
+<li><p>百度云下载
+- 链接：[<a class="reference external" href="https://pan.baidu.com/s/1faagCYM2XSSickycsfojdg](https://pan.baidu.com/s/1faagCYM2XSSickycsfojdg">https://pan.baidu.com/s/1faagCYM2XSSickycsfojdg](https://pan.baidu.com/s/1faagCYM2XSSickycsfojdg</a>)
+- 密码：root</p></li>
+<li><p>git命令下载
+下载方法：
+- 1. 先克隆主仓库（仅拉取主仓库文件，子模块目录为空）</p></li>
 </ul>
 <p>git clone <a class="reference external" href="https://gitee.com/weidongshan/doc_and_source_for_livestream.git">https://gitee.com/weidongshan/doc_and_source_for_livestream.git</a></p>
 <p>cd doc_and_source_for_livestream</p>
-<ul class="simple">
+<blockquote>
+<div><ul class="simple">
 <li><ol class="arabic simple" start="2">
 <li><p>初始化子模块（读取 .gitmodules 配置）</p></li>
 </ol>
 </li>
 </ul>
+</div></blockquote>
 <p>git submodule init</p>
-<ul class="simple">
+<blockquote>
+<div><ul class="simple">
 <li><ol class="arabic simple" start="3">
 <li><p>拉取所有子模块的代码（检出主仓库记录的子模块版本）</p></li>
 </ol>
 </li>
 </ul>
+</div></blockquote>
 <p>git submodule update</p>
-<p>更新方法：
-- 更新主仓库
-cd doc_and_source_for_livestream
+<dl class="simple">
+<dt>更新方法：</dt><dd><ul class="simple">
+<li><p>更新主仓库</p></li>
+</ul>
+</dd>
+</dl>
+<p>cd doc_and_source_for_livestream
 git pull origin master</p>
-<ul class="simple">
+<blockquote>
+<div><ul class="simple">
 <li><p>看看有没有新的直播</p></li>
 </ul>
+</div></blockquote>
 <p>git submodule init
 git submodule update</p>
-<ul class="simple">
+<blockquote>
+<div><ul class="simple">
 <li><p>更新子仓库</p></li>
 </ul>
+</div></blockquote>
 <p>git submodule foreach git pull origin master</p>
 </div>
 <div class="section" id="id9">

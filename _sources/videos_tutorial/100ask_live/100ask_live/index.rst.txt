@@ -40,30 +40,37 @@
   - 链接：https://pan.baidu.com/s/1faagCYM2XSSickycsfojdg  
   - 密码：root
 
-- git命令下载
+## 直播资料获取入口
 
-- 1. 先克隆主仓库（仅拉取主仓库文件，子模块目录为空）
+- 百度云下载
+  - 链接：[https://pan.baidu.com/s/1faagCYM2XSSickycsfojdg](https://pan.baidu.com/s/1faagCYM2XSSickycsfojdg)  
+  - 密码：root
+
+- git命令下载
+  下载方法：
+  - 1. 先克隆主仓库（仅拉取主仓库文件，子模块目录为空）
 git clone https://gitee.com/weidongshan/doc_and_source_for_livestream.git
 
 cd doc_and_source_for_livestream
 
-- 2. 初始化子模块（读取 .gitmodules 配置）
+  - 2. 初始化子模块（读取 .gitmodules 配置）
 git submodule init
 
-- 3. 拉取所有子模块的代码（检出主仓库记录的子模块版本）
+  - 3. 拉取所有子模块的代码（检出主仓库记录的子模块版本）
 git submodule update
 
 更新方法：
-- 更新主仓库
+  - 更新主仓库
 cd doc_and_source_for_livestream
 git pull origin master
 
-- 看看有没有新的直播
+  - 看看有没有新的直播
 git submodule init
 git submodule update
 
-- 更新子仓库
+  - 更新子仓库
 git submodule foreach git pull origin master
+
 
 学习交流答疑
 --------------------
