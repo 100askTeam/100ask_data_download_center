@@ -26,8 +26,8 @@
   - 链接： https://pan.baidu.com/s/1r7FC1EFDXBMj3WffqhO4Yg
   - 密码： root
  
-- LCD底板及FPC转接板：http://wiki.100ask.org/File:LCD%E5%BA%95%E6%9D%BF%E5%8F%8AFPC%E8%BD%AC%E6%8E%A5%E6%9D%BF.zip
-- LCD FPC转接板使用教程：http://wiki.100ask.org/How_to_use_fpc_adapter_board
+- LCD底板及FPC转接板：https://100ask.net/hardware
+- LCD FPC转接板使用教程：https://100ask.net/hardware
 
 如何购买
 --------------------
@@ -38,9 +38,9 @@
 --------------------
 
 - 百问网答疑交流社区：https://forums.100ask.net
-- 百问网官方wiki：http://wiki.100ask.org
-- 学习交流微信群：http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4
-- 学习交流QQ群：  http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4
+- 选择产品查看：https://100ask.net/hardware
+- 学习交流微信群：https://100ask.net/hardware
+- 学习交流QQ群：  https://100ask.net/hardware
 
 
 > 交流微信群与QQ群选择对应的产品申请加入即可。

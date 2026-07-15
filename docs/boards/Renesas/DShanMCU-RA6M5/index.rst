@@ -10,7 +10,7 @@
 
 - 开发板配套资料
 
-  - ``百度云网盘`` :download:`链接<>`：链接：https://pan.baidu.com/s/1hNqhWljHFuPybnbGyEWsSA?pwd=root 密码：root
+  - ``百度云网盘``：链接：https://pan.baidu.com/s/1hNqhWljHFuPybnbGyEWsSA?pwd=root 密码：root
 
 
 2. 产品图片

@@ -10,7 +10,7 @@
 
 .. _⭐视频介绍与导学(新同学请先点击这里): https://www.bilibili.com/video/BV1oz4y1C7jK
 .. _GIT下载简明教程: https://download.100ask.org/tools/Software/git/how_to_use_git.html
-.. _百度网盘方式下载资料教程: http://wiki.100ask.org/BeginnerLearningRoute#.E7.99.BE.E5.BA.A6.E7.BD.91.E7.9B.98.E4.BD.BF.E7.94.A8.E6.95.99.E7.A8.8B
+.. _百度网盘方式下载资料教程: https://100ask.net/hardware
    
 
 2. 资料下载
@@ -21,7 +21,7 @@
 
 - 开发板配套资料
 
-  - ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1Fe-SrqlFo1Xl4-1BTaWlpA 密码：root
+  - ``百度云网盘``：https://pan.baidu.com/s/1Fe-SrqlFo1Xl4-1BTaWlpA 密码：root
 
 
 
@@ -100,9 +100,9 @@
   
 - 讨论群
 
-  - 学习交流微信群：http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4
+  - 学习交流微信群：https://100ask.net/hardware
   
-  - 学习交流QQ群：  http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4
+  - 学习交流QQ群：  https://100ask.net/hardware
 
 - 投诉：
 

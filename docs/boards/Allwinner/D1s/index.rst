@@ -9,7 +9,7 @@
 
 
 .. _GIT下载简明教程: https://download.100ask.org/tools/Software/git/how_to_use_git.html
-.. _百度网盘方式下载资料教程: http://wiki.100ask.org/BeginnerLearningRoute#.E7.99.BE.E5.BA.A6.E7.BD.91.E7.9B.98.E4.BD.BF.E7.94.A8.E6.95.99.E7.A8.8B
+.. _百度网盘方式下载资料教程: https://100ask.net/hardware
 
 
 2. 视频教程与配套资料
@@ -20,7 +20,7 @@
 
 - 配套资料：
 
-  - D1s课程配套通用资料 ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1KQHHF8YsKWT9_jUj_7Jmqg?pwd=pgri   密码： pgri
+  - D1s课程配套通用资料 ``百度云网盘``：https://pan.baidu.com/s/1KQHHF8YsKWT9_jUj_7Jmqg?pwd=pgri   密码： pgri
 
 - 学习文档：https://dongshanpi.com/DongshanPI-D1s/01-BoardIntroduction
 
@@ -36,7 +36,7 @@
 
 - 配套资料：
 
-  - D1s课程配套通用资料 ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1KQHHF8YsKWT9_jUj_7Jmqg?pwd=pgri   密码： pgri
+  - D1s课程配套通用资料 ``百度云网盘``：https://pan.baidu.com/s/1KQHHF8YsKWT9_jUj_7Jmqg?pwd=pgri   密码： pgri
 
 - GIT仓库(文档和源码)：https://gitee.com/weidongshan/riscv_programming_practice
 

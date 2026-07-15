@@ -11,7 +11,7 @@
 
 .. _⭐视频介绍与导学(新同学请先点击这里): https://www.bilibili.com/video/BV1oz4y1C7jK
 .. _GIT下载简明教程: https://download.100ask.org/tools/Software/git/how_to_use_git.html
-.. _百度网盘方式下载资料教程: http://wiki.100ask.org/BeginnerLearningRoute#.E7.99.BE.E5.BA.A6.E7.BD.91.E7.9B.98.E4.BD.BF.E7.94.A8.E6.95.99.E7.A8.8B
+.. _百度网盘方式下载资料教程: https://100ask.net/hardware
 
    
 2. 视频教程与配套资料
@@ -35,7 +35,7 @@
 
 - 配套资料：
 
-  - ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1fi8HzQOP8yjOQccIPu-MxA?pwd=86a9    密码： 86a9
+  - ``百度云网盘``：https://pan.baidu.com/s/1fi8HzQOP8yjOQccIPu-MxA?pwd=86a9    密码： 86a9
 
 - 视频教程：
   
@@ -53,7 +53,7 @@
 2.3 使用Tina-SDK开发《嵌入式Linux开发：一板懂，百板通》系列课程100ASK_T113-PRO开发板 
 ********************************************************************************************************
 
-- ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1wiQhoa_DdVpAkRKJ6atdJg?pwd=cp4v    密码： cp4v
+- ``百度云网盘``：https://pan.baidu.com/s/1wiQhoa_DdVpAkRKJ6atdJg?pwd=cp4v    密码： cp4v
 
 
 2.4 100ASK_T113-PRO开发板扩展资料下载页面

@@ -94,9 +94,9 @@
 
 - 讨论群
 
-  - 学习交流微信群：http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4
+  - 学习交流微信群：https://100ask.net/hardware
 
-  - 学习交流QQ群：  http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4
+  - 学习交流QQ群：  https://100ask.net/hardware
 
 - 投诉：
 
