@@ -1,5 +1,14 @@
 {% extends "!page.html" %}
 
+{% block body %}
+<div class="site-maintenance-notice">
+  此页面因技术问题维护不及时，最新页面请访问
+  <a href="https://100ask.net/download">https://100ask.net/download</a>
+  浏览！
+</div>
+{{ super() }}
+{% endblock %}
+
 {% block footer %}
 
  <script type="text/javascript">
