@@ -61,7 +61,7 @@ jobs:
         port: ${{ secrets.PORT }}
         source: "docs/_build/**"
         target: /www/wwwroot/download.100ask.net/
-        strip_components: 1
+        strip_components: 2
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
