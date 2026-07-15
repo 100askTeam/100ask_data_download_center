@@ -7,7 +7,7 @@
 1.1 开发板配套资料
 *****************************
 
-- ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1KbpXYZube7jeKfqT9xvLow?pwd=na93 密码：na93
+- ``百度云网盘``：https://pan.baidu.com/s/1KbpXYZube7jeKfqT9xvLow?pwd=na93 密码：na93
 
 1.2 学习视频
 - B站：https://www.bilibili.com/video/BV19PsAzCEuy/

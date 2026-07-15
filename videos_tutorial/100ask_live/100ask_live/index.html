@@ -44,6 +44,7 @@
     
     <link rel="index" title="索引" href="../../../genindex.html" />
     <link rel="search" title="搜索" href="../../../search.html" />
+    <link rel="prev" title="介绍" href="../../../README.html" />
     <link href="../../../_static/default.css" rel="stylesheet" type="text/css">
 
 </head>
@@ -219,6 +220,18 @@
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="../../../AboutUs/aboutus/index.html">公司简介</a></li>
 </ul>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../../README.html">介绍</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../README.html#id2">版权声明</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../README.html#id4">资料目录</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../README.html#id5">联系我们</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">🎓百问网直播列表</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#id8">直播资料获取入口</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id9">学习交流答疑</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id10">关于百问网(韦东山)</a></li>
+</ul>
+</li>
+</ul>
 
             
           
@@ -285,6 +298,12 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
+<div class="site-maintenance-notice">
+  此页面后期不再维护更新，最新页面请访问
+  <a href="https://100ask.net/download">https://100ask.net/download</a>
+  浏览！
+</div>
+
   <div class="section" id="id1">
 <h1>🎓百问网直播列表<a class="headerlink" href="#id1" title="永久链接至标题">¶</a></h1>
 <ul class="simple">
@@ -304,68 +323,70 @@
 </ul>
 <div class="section" id="id8">
 <h2>直播资料获取入口<a class="headerlink" href="#id8" title="永久链接至标题">¶</a></h2>
-<ul class="simple">
-<li><p>百度云下载</p>
 <ul>
+<li><p>百度云下载</p>
+<ul class="simple">
 <li><p>链接：<a class="reference external" href="https://pan.baidu.com/s/1faagCYM2XSSickycsfojdg">https://pan.baidu.com/s/1faagCYM2XSSickycsfojdg</a></p></li>
 <li><p>密码：root</p></li>
 </ul>
 </li>
-<li><p>git命令下载
-下载方法：
-- 1. 先克隆主仓库（仅拉取主仓库文件，子模块目录为空）</p></li>
+<li><p>git命令下载</p>
+<p>下载方法：</p>
+<ul>
+<li><p>第1步：先克隆主仓库（仅拉取主仓库文件，子模块目录为空）:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">clone</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">gitee</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">weidongshan</span><span class="o">/</span><span class="n">doc_and_source_for_livestream</span><span class="o">.</span><span class="n">git</span>
+<span class="n">cd</span> <span class="n">doc_and_source_for_livestream</span>
+</pre></div>
+</div>
+</li>
+<li><p>第2步：初始化子模块（读取 .gitmodules 配置）:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">submodule</span> <span class="n">init</span>
+</pre></div>
+</div>
+</li>
+<li><p>第3步：拉取所有子模块的代码（检出主仓库记录的子模块版本）:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">submodule</span> <span class="n">update</span>
+</pre></div>
+</div>
+</li>
 </ul>
-<p>git clone <a class="reference external" href="https://gitee.com/weidongshan/doc_and_source_for_livestream.git">https://gitee.com/weidongshan/doc_and_source_for_livestream.git</a></p>
-<p>cd doc_and_source_for_livestream</p>
+</li>
+</ul>
+<p>更新方法：</p>
 <blockquote>
-<div><ul class="simple">
-<li><ol class="arabic simple" start="2">
-<li><p>初始化子模块（读取 .gitmodules 配置）</p></li>
-</ol>
+<div><ul>
+<li><p>更新主仓库:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="n">doc_and_source_for_livestream</span>
+<span class="n">git</span> <span class="n">pull</span> <span class="n">origin</span> <span class="n">master</span>
+</pre></div>
+</div>
+</li>
+<li><p>看看有没有新的直播:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">submodule</span> <span class="n">init</span>
+<span class="n">git</span> <span class="n">submodule</span> <span class="n">update</span>
+</pre></div>
+</div>
+</li>
+<li><p>更新子仓库:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">submodule</span> <span class="n">foreach</span> <span class="n">git</span> <span class="n">pull</span> <span class="n">origin</span> <span class="n">master</span>
+</pre></div>
+</div>
 </li>
 </ul>
 </div></blockquote>
-<p>git submodule init</p>
-<blockquote>
-<div><ul class="simple">
-<li><ol class="arabic simple" start="3">
-<li><p>拉取所有子模块的代码（检出主仓库记录的子模块版本）</p></li>
-</ol>
-</li>
-</ul>
-</div></blockquote>
-<p>git submodule update</p>
-<dl class="simple">
-<dt>更新方法：</dt><dd><ul class="simple">
-<li><p>更新主仓库</p></li>
-</ul>
-</dd>
-</dl>
-<p>cd doc_and_source_for_livestream
-git pull origin master</p>
-<blockquote>
-<div><ul class="simple">
-<li><p>看看有没有新的直播</p></li>
-</ul>
-</div></blockquote>
-<p>git submodule init
-git submodule update</p>
-<blockquote>
-<div><ul class="simple">
-<li><p>更新子仓库</p></li>
-</ul>
-</div></blockquote>
-<p>git submodule foreach git pull origin master</p>
 </div>
 <div class="section" id="id9">
 <h2>学习交流答疑<a class="headerlink" href="#id9" title="永久链接至标题">¶</a></h2>
-<ul class="simple">
+<ul>
 <li><p>百问网答疑交流社区：<a class="reference external" href="https://forums.100ask.net">https://forums.100ask.net</a></p></li>
-<li><p>百问网官方wiki：<a class="reference external" href="http://wiki.100ask.org">http://wiki.100ask.org</a></p></li>
-<li><p>学习交流微信群：<a class="reference external" href="http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4">http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4</a></p></li>
-<li><p>学习交流QQ群：  <a class="reference external" href="http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4">http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4</a></p></li>
+<li><p>选择产品查看：<a class="reference external" href="https://100ask.net/hardware">https://100ask.net/hardware</a></p></li>
+<li><p>学习交流微信群：<a class="reference external" href="https://100ask.net/hardware">https://100ask.net/hardware</a></p></li>
+<li><p>学习交流QQ群：  <a class="reference external" href="https://100ask.net/hardware">https://100ask.net/hardware</a></p>
+<blockquote>
+<div><p>交流微信群与QQ群选择对应的产品申请加入即可。</p>
+</div></blockquote>
+</li>
 </ul>
-<p>&gt; 交流微信群与QQ群选择对应的产品申请加入即可。</p>
 </div>
 <div class="section" id="id10">
 <h2>关于百问网(韦东山)<a class="headerlink" href="#id10" title="永久链接至标题">¶</a></h2>
@@ -376,10 +397,14 @@ git submodule update</p>
 </div>
 
 
+
            </div>
            
           </div>
           <footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+        <a href="../../../README.html" class="btn btn-neutral float-left" title="介绍" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> 上一页</a>
+    </div>
 
   <hr/>
 

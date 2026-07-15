@@ -10,6 +10,21 @@
     max-width:110%;
 }
 
+.site-maintenance-notice {
+    margin: 0 0 20px;
+    padding: 12px 16px;
+    border-left: 4px solid #32a929;
+    background: #f2fbf1;
+    color: #23451f;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.site-maintenance-notice a {
+    color: #1f7a1f;
+    font-weight: 600;
+    text-decoration: underline;
+}
 
 .wy-side-nav-search {
     background-color: #32a929;

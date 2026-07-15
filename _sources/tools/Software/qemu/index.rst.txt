@@ -16,21 +16,21 @@ QEMU用途广泛，比如Xen、Android模拟器等都是基于QEMU的。
 QEMU镜像获取
 --------------------
 
-- ubuntu-18.04开发环境下qemu imx6ul系统镜像下载页面：http://wiki.100ask.org/Download_ubuntu-18.04_imx6ul_qemu
-- ubuntu-16.04开发环境下qemu imx6ul系统镜像下载页面：http://wiki.100ask.org/Download_ubuntu-16.04_imx6ul_qemu
+- ubuntu-18.04开发环境下qemu imx6ul系统镜像下载页面：https://100ask.net/hardware
+- ubuntu-16.04开发环境下qemu imx6ul系统镜像下载页面：https://100ask.net/hardware
 
 使用教程
 --------------------
 
-http://wiki.100ask.org/Qemu
+https://100ask.net/hardware
 
 学习交流答疑
 --------------------
 
 - 百问网答疑论坛：http://bbs.100ask.net
-- 百问网官方wiki：http://wiki.100ask.org
-- 学习交流微信群：http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4
-- 学习交流QQ群：  http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4
+- 选择产品查看：https://100ask.net/hardware
+- 学习交流微信群：https://100ask.net/hardware
+- 学习交流QQ群：  https://100ask.net/hardware
 
 > 交流微信群与QQ群选择对应的产品申请加入即可。
 

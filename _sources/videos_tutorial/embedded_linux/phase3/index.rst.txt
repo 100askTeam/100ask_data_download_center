@@ -11,7 +11,7 @@
 
 .. _⭐视频介绍与导学(新同学请先点击这里): https://www.bilibili.com/video/BV1oz4y1C7jK
 .. _GIT下载简明教程: https://download.100ask.org/tools/Software/git/how_to_use_git.html
-.. _百度网盘方式下载资料教程: http://wiki.100ask.org/BeginnerLearningRoute#.E7.99.BE.E5.BA.A6.E7.BD.91.E7.9B.98.E4.BD.BF.E7.94.A8.E6.95.99.E7.A8.8B
+.. _百度网盘方式下载资料教程: https://100ask.net/hardware
 
 :: 
    
@@ -20,7 +20,7 @@
 JZ2440开发板资料下载
 --------------------
 
-  - 下载方式1：``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1tNNbnPdrz5BK8sfORTUm1g  密码： root
+  - 下载方式1：``百度云网盘``：https://pan.baidu.com/s/1tNNbnPdrz5BK8sfORTUm1g  密码： root
   - 下载方式2：``微力同步``              `密钥`_：B3AMCCZ4QGAZYRCTARUJTMYDGKCB4SSKXB4A35RUC2XOH2HYS5WBD2Q
 
 .. _密钥: https://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html  
@@ -30,8 +30,8 @@ JZ2440开发板资料下载
 
 - 【第3期】韦东山项目实战视频及源码文档
 
-  - 下载方式1：``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1MPIFD-KtjkmZh6RgPQtn3A 密码：root
-  - 下载方式2：``微力同步`` :download:`密钥<>`：B3AMLWGBYAZPHRBZOWC6OKGIEQ462CFGMHCZM6GQN4KDMQB7XT7VKFU
+  - 下载方式1：``百度云网盘``：https://pan.baidu.com/s/1MPIFD-KtjkmZh6RgPQtn3A 密码：root
+  - 下载方式2：``微力同步``：B3AMLWGBYAZPHRBZOWC6OKGIEQ462CFGMHCZM6GQN4KDMQB7XT7VKFU
 
 - 【1、2、3期毕业班】UBOOT移植_LINUX移植_驱动移植视频及源码	
 
@@ -59,9 +59,9 @@ JZ2440开发板资料下载
 --------------------
 
 - 百问网答疑交流社区：https://forums.100ask.net
-- 百问网官方wiki：http://wiki.100ask.org
-- 学习交流微信群：http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4
-- 学习交流QQ群：  http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4
+- 选择产品查看：https://100ask.net/hardware
+- 学习交流微信群：https://100ask.net/hardware
+- 学习交流QQ群：  https://100ask.net/hardware
 
 > 交流微信群与QQ群选择对应的产品申请加入即可。
 

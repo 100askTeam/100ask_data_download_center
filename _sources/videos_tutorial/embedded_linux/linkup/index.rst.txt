@@ -5,7 +5,7 @@
 JZ2440开发板资料下载
 --------------------
 
-  - 下载方式：``百度云网盘`` :download:`链接<>`： https://pan.baidu.com/s/1tNNbnPdrz5BK8sfORTUm1g  密码： root
+  - 下载方式：``百度云网盘``： https://pan.baidu.com/s/1tNNbnPdrz5BK8sfORTUm1g  密码： root
   
 视频教程及源码下载
 ----------------------------------------
@@ -29,9 +29,9 @@ JZ2440开发板资料下载
 --------------------
 
 - 百问网答疑交流社区：https://forums.100ask.net
-- 百问网官方wiki：http://wiki.100ask.org
-- 学习交流微信群：http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4
-- 学习交流QQ群：  http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4
+- 选择产品查看：https://100ask.net/hardware
+- 学习交流微信群：https://100ask.net/hardware
+- 学习交流QQ群：  https://100ask.net/hardware
 
 > 交流微信群与QQ群选择对应的产品申请加入即可。
 

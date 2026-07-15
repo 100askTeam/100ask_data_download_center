@@ -6,26 +6,29 @@
 
 ########################
 
-- 1. 先克隆主仓库（仅拉取主仓库文件，子模块目录为空）
-`git clone https://gitee.com/weidongshan/doc_and_source_for_drivers.git`
+- 第1步：先克隆主仓库（仅拉取主仓库文件，子模块目录为空）::
 
-`cd doc_and_source_for_drivers`
+    git clone https://gitee.com/weidongshan/doc_and_source_for_drivers.git
+    cd doc_and_source_for_drivers
 
-- 2. 初始化子模块（读取 .gitmodules 配置）
-`git submodule init`
+- 第2步：初始化子模块（读取 .gitmodules 配置）::
 
-- 3. 拉取所有子模块的代码（检出主仓库记录的子模块版本）
-`git submodule update`
+    git submodule init
+
+- 第3步：拉取所有子模块的代码（检出主仓库记录的子模块版本）::
+
+    git submodule update
 
 更新资料:
 
-- 更新主仓库
-`cd doc_and_source_for_drivers`
+- 更新主仓库::
 
-`git pull origin master`
+    cd doc_and_source_for_drivers
+    git pull origin master
 
-- 更新子仓库
-`git submodule foreach git pull origin master`
+- 更新子仓库::
+
+    git submodule foreach git pull origin master
 
 2. 视频教程
 ##########################
@@ -71,9 +74,9 @@
 
 - 讨论群
 
-  - 学习交流微信群：http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4
+  - 学习交流微信群：https://100ask.net/hardware
 
-  - 学习交流QQ群：  http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4
+  - 学习交流QQ群：  https://100ask.net/hardware
 
 - 投诉：
 
@@ -84,4 +87,3 @@
 ##########################
 
  :doc:`/AboutUs/aboutus/index`
-

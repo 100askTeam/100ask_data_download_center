@@ -227,6 +227,13 @@
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="../../AboutUs/aboutus/index.html">公司简介</a></li>
 </ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../README.html">介绍</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../README.html#id2">版权声明</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../README.html#id4">资料目录</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../README.html#id5">联系我们</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../videos_tutorial/100ask_live/100ask_live/index.html">🎓百问网直播列表</a></li>
+</ul>
 
             
           
@@ -293,44 +300,50 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
+<div class="site-maintenance-notice">
+  此页面后期不再维护更新，最新页面请访问
+  <a href="https://100ask.net/download">https://100ask.net/download</a>
+  浏览！
+</div>
+
   <div class="section" id="linux">
 <h1>韦东山全新系列Linux驱动大全<a class="headerlink" href="#linux" title="永久链接至标题">¶</a></h1>
 <ol class="arabic simple">
 <li><p>资料下载</p></li>
 </ol>
 <hr class="docutils" />
-<ul class="simple">
-<li><ol class="arabic simple">
-<li><p>先克隆主仓库（仅拉取主仓库文件，子模块目录为空）</p></li>
-</ol>
+<ul>
+<li><p>第1步：先克隆主仓库（仅拉取主仓库文件，子模块目录为空）:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">clone</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">gitee</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">weidongshan</span><span class="o">/</span><span class="n">doc_and_source_for_drivers</span><span class="o">.</span><span class="n">git</span>
+<span class="n">cd</span> <span class="n">doc_and_source_for_drivers</span>
+</pre></div>
+</div>
+</li>
+<li><p>第2步：初始化子模块（读取 .gitmodules 配置）:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">submodule</span> <span class="n">init</span>
+</pre></div>
+</div>
+</li>
+<li><p>第3步：拉取所有子模块的代码（检出主仓库记录的子模块版本）:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">submodule</span> <span class="n">update</span>
+</pre></div>
+</div>
 </li>
 </ul>
-<p><cite>git clone https://gitee.com/weidongshan/doc_and_source_for_drivers.git</cite></p>
-<p><cite>cd doc_and_source_for_drivers</cite></p>
-<ul class="simple">
-<li><ol class="arabic simple" start="2">
-<li><p>初始化子模块（读取 .gitmodules 配置）</p></li>
-</ol>
-</li>
-</ul>
-<p><cite>git submodule init</cite></p>
-<ul class="simple">
-<li><ol class="arabic simple" start="3">
-<li><p>拉取所有子模块的代码（检出主仓库记录的子模块版本）</p></li>
-</ol>
-</li>
-</ul>
-<p><cite>git submodule update</cite></p>
 <p>更新资料:</p>
-<ul class="simple">
-<li><p>更新主仓库</p></li>
+<ul>
+<li><p>更新主仓库:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="n">doc_and_source_for_drivers</span>
+<span class="n">git</span> <span class="n">pull</span> <span class="n">origin</span> <span class="n">master</span>
+</pre></div>
+</div>
+</li>
+<li><p>更新子仓库:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">submodule</span> <span class="n">foreach</span> <span class="n">git</span> <span class="n">pull</span> <span class="n">origin</span> <span class="n">master</span>
+</pre></div>
+</div>
+</li>
 </ul>
-<p><cite>cd doc_and_source_for_drivers</cite></p>
-<p><cite>git pull origin master</cite></p>
-<ul class="simple">
-<li><p>更新子仓库</p></li>
-</ul>
-<p><cite>git submodule foreach git pull origin master</cite></p>
 <div class="section" id="id1">
 <h2>2. 视频教程<a class="headerlink" href="#id1" title="永久链接至标题">¶</a></h2>
 <ul class="simple">
@@ -380,8 +393,8 @@
 </li>
 <li><p>讨论群</p>
 <ul>
-<li><p>学习交流微信群：<a class="reference external" href="http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4">http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4</a></p></li>
-<li><p>学习交流QQ群：  <a class="reference external" href="http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4">http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4</a></p></li>
+<li><p>学习交流微信群：<a class="reference external" href="https://100ask.net/hardware">https://100ask.net/hardware</a></p></li>
+<li><p>学习交流QQ群：  <a class="reference external" href="https://100ask.net/hardware">https://100ask.net/hardware</a></p></li>
 </ul>
 </li>
 <li><p>投诉：</p>
@@ -398,6 +411,7 @@
 </div></blockquote>
 </div>
 </div>
+
 
 
            </div>
